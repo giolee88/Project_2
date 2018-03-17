@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Terrorism Heat Map</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="terrorHeatMap.js"></script>
+
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+    <style>
+        body {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        #map,
+        body,
+        html {
+            height: 100%;
+        }
+    </style>
+
+    <script type="text/javascript">
+
+        var mapbox = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ'
+
+        var myMap = L.map('map', {
+            center: [0, 0],
+            zoom: 8
+        });
+
+        L.tileLayer(mapbox).addTo(myMap);
+
+        var url = "https://data.sfgov.org/resource/gxxq-x39z.json?$limit=10000"
+
+        d3.json(url, function (response) {
+
+            console.log(response);
+
+            var heatArray = [];
+
+            for (var i = 0; i < response.length; i++) {
+                var location = response[i].location;
+
+                if (location) {
+                    heatArray.push([location.latitude, location.longitude])
+                }
+            }
+
+            var heat = L.heatLayer(heatArray, {
+                radius: 20,
+                blur: 35
+            }).addTo(myMap)
+
+        });
+
+    </script>
+
+</body>
+
+</html>
