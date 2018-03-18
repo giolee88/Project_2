@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Favorite Movies</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+        crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Giphy Search</h1>
+
+        <!-- This form will be where users input data about the movies -->
+        <form id="movie-form">
+            <label for="movie-input">Search for a movie</label>
+            <input type="text" id="movie-input">
+            <br>
+
+            <!-- This button will trigger our AJAX call -->
+            <input id="find-movie" type="submit" value="Movie Search">
+        </form>
+
+        <div class="imgGoesHere"></div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.min.js"></script>
+        <script type="text/javascript">
+            // This .on("click") function will trigger the AJAX Call
+            d3.select("#find-movie").on("click", function (event) {
+
+                // d3.event.preventDefault() can be used to prevent an event's default behavior.
+                // Here, it prevents the submit button from trying to submit a form when clicked
+                d3.event.preventDefault();
+
+                // Here we grab the text from the input box
+                var movie = d3.select("#movie-input").node().value;
+
+                var queryURL = "http://api.giphy.com/v1/gifs/search?q=movies+" + movie +
+                    "&api_key=dc6zaTOxFJmzC&limit=10";
+                d3.json(queryURL, function (error, response) {
+                    if (error) return console.warn(error);
+
+                    // console.log(response);
+                    console.log("url", response);
+                    var url = response.data[0].images.fixed_height.url;
+                    d3.select(".imgGoesHere").append("img").attr("src", url);
+                })
+
+            });
+        </script>
+    </div>
+</body>
+
+</html>
