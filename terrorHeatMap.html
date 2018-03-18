@@ -9,7 +9,7 @@
     <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script type="text/javascript" src="terrorHeatMap.js"></script>
+    <script type="text/javascript" src="leaflet-heat.js"></script>
 
 </head>
 
@@ -31,35 +31,38 @@
     </style>
 
     <script type="text/javascript">
-
-        var mapbox = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ'
-
+        // set mapbox variable to mapbox style url
+        var mapbox = 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/'
+                    + '256/{z}/{x}/{y}?access_token='
+                    + 'pk.eyJ1IjoibWFyaW5lbGxpam9zZXBoIiwiYSI6ImNqZXZ6N3lvejBram8ydnJ5dHNndDZ6OGUifQ.TkCbx1WD-lh0UPvHMhvbvg'
+        // set map properties
         var myMap = L.map('map', {
             center: [0, 0],
-            zoom: 8
+            zoom: 2
         });
-
+        // add tile Layer from mapbox url to map 
         L.tileLayer(mapbox).addTo(myMap);
-
+        // geojson url add flask endpoint here*****
         var url = "https://data.sfgov.org/resource/gxxq-x39z.json?$limit=10000"
 
         d3.json(url, function (response) {
 
             console.log(response);
-
+            // set heat array to empty array
             var heatArray = [];
-
+            // loop through responses for location
             for (var i = 0; i < response.length; i++) {
                 var location = response[i].location;
-
+                // push location latitude and longitude to heat array
                 if (location) {
                     heatArray.push([location.latitude, location.longitude])
                 }
             }
-
+            // set heat layer properties 
             var heat = L.heatLayer(heatArray, {
                 radius: 20,
                 blur: 35
+            // add heat layer to map
             }).addTo(myMap)
 
         });
