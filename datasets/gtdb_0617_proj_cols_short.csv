@@ -1,0 +1,960 @@
+eventid,iyear,imonth,iday,Date,country,country_txt,latitude,longitude,attacktype1,attacktype1_txt,targtype1,targtype1_txt,gname,weaptype1,weaptype1_txt,nkill,nwound,property
+197000000001,1970,7,2,7/2/1970,58,Dominican Republic,18.456792,-69.951164,1,Assassination,14,Private Citizens & Property,MANO-D,13,Unknown,1,0,0
+197000000002,1970,0,0,,130,Mexico,19.432608,-99.133207,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),23rd of September Communist League,13,Unknown,0,0,0
+197001000001,1970,1,0,,160,Philippines,15.478598,120.599741,1,Assassination,10,Journalists & Media,Unknown,13,Unknown,1,0,0
+197001000002,1970,1,0,,78,Greece,37.983773,23.728157,3,Bombing/Explosion,7,Government (Diplomatic),Unknown,6,Explosives/Bombs/Dynamite,,,1
+197001000003,1970,1,0,,101,Japan,33.580412,130.396361,7,Facility/Infrastructure Attack,7,Government (Diplomatic),Unknown,8,Incendiary,,,1
+197001010002,1970,1,1,1/1/1970,217,United States,37.005105,-89.176269,2,Armed Assault,3,Police,Black Nationalists,5,Firearms,0,0,1
+197001020001,1970,1,2,1/2/1970,218,Uruguay,-34.891151,-56.187214,1,Assassination,3,Police,Tupamaros (Uruguay),5,Firearms,0,0,0
+197001020002,1970,1,2,1/2/1970,217,United States,37.805065,-122.273024,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197001020003,1970,1,2,1/2/1970,217,United States,43.076592,-89.412488,7,Facility/Infrastructure Attack,4,Military,New Year's Gang,8,Incendiary,0,0,1
+197001030001,1970,1,3,1/3/1970,217,United States,43.07295,-89.386694,7,Facility/Infrastructure Attack,2,Government (General),New Year's Gang,8,Incendiary,0,0,1
+197001050001,1970,1,1,1/1/1970,217,United States,43.4685,-89.744299,3,Bombing/Explosion,4,Military,"Weather Underground, Weathermen",6,Explosives/Bombs/Dynamite,0,0,0
+197001060001,1970,1,6,1/6/1970,217,United States,39.74001,-104.992259,7,Facility/Infrastructure Attack,4,Military,Left-Wing Militants,8,Incendiary,0,0,1
+197001080001,1970,1,8,1/8/1970,98,Italy,41.89052,12.494249,4,Hijacking,6,Airports & Aircraft,Unknown,5,Firearms,0,0,0
+197001090001,1970,1,9,1/9/1970,217,United States,42.331685,-83.047924,7,Facility/Infrastructure Attack,2,Government (General),Left-Wing Militants,8,Incendiary,0,0,1
+197001090002,1970,1,9,1/9/1970,217,United States,18.399712,-66.049987,7,Facility/Infrastructure Attack,1,Business,Armed Commandos of Liberation,8,Incendiary,0,0,1
+197001100001,1970,1,10,1/10/1970,499,East Germany (GDR),52.516667,13.4,3,Bombing/Explosion,2,Government (General),Commune 1,6,Explosives/Bombs/Dynamite,,,0
+197001110001,1970,1,11,1/11/1970,65,Ethiopia,,,9,Unknown,4,Military,Eritrean Liberation Front,13,Unknown,1,0,0
+197001120001,1970,1,12,1/12/1970,217,United States,40.610069,-73.947971,3,Bombing/Explosion,8,Educational Institution,Black Nationalists,6,Explosives/Bombs/Dynamite,0,0,1
+197001120002,1970,1,12,1/12/1970,217,United States,18.379998,-65.830948,3,Bombing/Explosion,1,Business,Strikers,6,Explosives/Bombs/Dynamite,0,0,-9
+197102020001,1971,2,2,2/2/1971,209,Turkey,38.419723,27.133235,3,Bombing/Explosion,2,Government (General),Turkish People's Liberation Army,6,Explosives/Bombs/Dynamite,,,1
+197102020002,1971,2,2,2/2/1971,209,Turkey,38.419723,27.133235,3,Bombing/Explosion,4,Military,Turkish People's Liberation Army,6,Explosives/Bombs/Dynamite,0,0,1
+197102030001,1971,2,3,2/3/1971,218,Uruguay,-34.891151,-56.187214,6,Hostage Taking (Kidnapping),1,Business,Tupamaros (Uruguay),13,Unknown,,,0
+197102040001,1971,2,4,2/4/1971,217,United States,37.805065,-122.273024,3,Bombing/Explosion,4,Military,BAY Bombers,6,Explosives/Bombs/Dynamite,,,1
+197102040002,1971,2,4,2/4/1971,217,United States,35.2225,-80.837539,7,Facility/Infrastructure Attack,2,Government (General),White extremists,8,Incendiary,0,0,1
+197102050001,1971,2,5,2/5/1971,217,United States,34.419255,-119.698869,7,Facility/Infrastructure Attack,4,Military,Unknown,8,Incendiary,0,0,1
+197102060001,1971,2,6,2/6/1971,362,West Germany (FRG),50.111445,8.680615,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,,,1
+197102060002,1971,2,6,2/6/1971,603,United Kingdom,54.597269,-5.930109,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197102070001,1971,2,7,2/7/1971,603,United Kingdom,54.63797,-6.14485,1,Assassination,14,Private Citizens & Property,Irish Republican Extremists,5,Firearms,1,,0
+197102080001,1971,2,8,2/8/1971,209,Turkey,39.918392,32.865597,3,Bombing/Explosion,4,Military,Turkish People's Liberation Army,6,Explosives/Bombs/Dynamite,0,0,1
+197102080002,1971,2,8,2/8/1971,94,Iran,37.146795,49.536102,2,Armed Assault,3,Police,Unknown,5,Firearms,,,1
+197102090001,1971,2,9,2/9/1971,603,United Kingdom,54.452223,-7.486124,3,Bombing/Explosion,4,Military,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,5,,1
+197102090002,1971,2,9,2/9/1971,217,United States,26.714388,-80.052689,3,Bombing/Explosion,8,Educational Institution,Black Nationalists,6,Explosives/Bombs/Dynamite,0,0,0
+197102100001,1971,2,10,2/10/1971,209,Turkey,39.918392,32.865597,3,Bombing/Explosion,14,Private Citizens & Property,Turkish People's Liberation Army,6,Explosives/Bombs/Dynamite,0,0,1
+197102100002,1971,2,10,2/10/1971,198,Sweden,57.696994,11.9865,2,Armed Assault,7,Government (Diplomatic),Croatian Nationalists,5,Firearms,0,0,0
+197102100003,1971,2,10,2/10/1971,217,United States,41.084195,-81.514059,3,Bombing/Explosion,14,Private Citizens & Property,Neo-Nazi extremists,6,Explosives/Bombs/Dynamite,0,0,0
+197102110001,1971,2,11,2/11/1971,222,Venezuela,10.502961,-66.917253,6,Hostage Taking (Kidnapping),1,Business,Movement of the Revolutionary Left (MIR) (Venezuela),13,Unknown,0,0,0
+197102110002,1971,2,11,2/11/1971,209,Turkey,39.918392,32.865597,3,Bombing/Explosion,7,Government (Diplomatic),Unknown,6,Explosives/Bombs/Dynamite,,,1
+197102120001,1971,2,12,2/12/1971,160,Philippines,14.596051,120.978666,3,Bombing/Explosion,7,Government (Diplomatic),Unknown,6,Explosives/Bombs/Dynamite,,,1
+197102120002,1971,2,12,2/12/1971,209,Turkey,39.918392,32.865597,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197203000001,1972,3,0,,217,United States,18.46617,-66.106654,3,Bombing/Explosion,1,Business,Secret Cuban Government,6,Explosives/Bombs/Dynamite,0,0,1
+197203000002,1972,3,0,,217,United States,18.46617,-66.106654,3,Bombing/Explosion,1,Business,Secret Cuban Government,6,Explosives/Bombs/Dynamite,0,0,1
+197203000003,1972,3,0,,217,United States,40.712784,-74.005941,3,Bombing/Explosion,1,Business,Secret Cuban Government,6,Explosives/Bombs/Dynamite,0,0,1
+197203010001,1972,3,1,3/1/1972,603,United Kingdom,54.365171,-8.036373,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197203020001,1972,3,2,3/2/1972,185,Spain,,,3,Bombing/Explosion,4,Military,Catalan Liberation Front (FAC),6,Explosives/Bombs/Dynamite,0,0,1
+197203030001,1972,3,3,3/3/1972,603,United Kingdom,54.597269,-5.930109,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197203040001,1972,3,4,3/4/1972,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Catalan Liberation Front (FAC),6,Explosives/Bombs/Dynamite,,,1
+197203040002,1972,3,4,3/4/1972,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,19,Transportation,Catalan Liberation Front (FAC),6,Explosives/Bombs/Dynamite,0,0,1
+197203040003,1972,3,4,3/4/1972,185,Spain,40.416691,-3.700345,7,Facility/Infrastructure Attack,1,Business,Catalan Liberation Front (FAC),8,Incendiary,,,1
+197203040004,1972,3,4,3/4/1972,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,1,Business,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,1,,1
+197203040005,1972,3,4,3/4/1972,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,1,Business,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,130,1
+197203040006,1972,3,4,3/4/1972,603,United Kingdom,54.99451,-7.319996,1,Assassination,4,Military,Official Irish Republican Army (OIRA),5,Firearms,1,,0
+197203060001,1972,3,6,3/6/1972,603,United Kingdom,54.597267,-5.925849,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,56,1
+197203060002,1972,3,6,3/6/1972,603,United Kingdom,54.996006,-7.308575,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197203080001,1972,3,8,3/8/1972,603,United Kingdom,54.293235,-6.842351,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197203110001,1972,3,11,3/11/1972,217,United States,40.728224,-73.794852,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Jewish Armed Resistance,8,Incendiary,0,0,1
+197203120001,1972,3,12,3/12/1972,603,United Kingdom,54.597269,-5.930109,1,Assassination,4,Military,Official Irish Republican Army (OIRA),5,Firearms,1,,0
+197203130001,1972,3,13,3/13/1972,603,United Kingdom,54.597269,-5.930109,1,Assassination,14,Private Citizens & Property,Ulster Volunteer Force (UVF),5,Firearms,1,,0
+197203150001,1972,3,15,3/15/1972,603,United Kingdom,54.536706,-6.70361,1,Assassination,3,Police,Irish Republican Army (IRA),5,Firearms,1,,0
+197203150002,1972,3,15,3/15/1972,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,4,Military,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,,1
+197304020001,1973,4,2,4/2/1973,11,Argentina,-34.6037,-58.381503,6,Hostage Taking (Kidnapping),1,Business,Argentine Liberation Front (FAL),13,Unknown,0,0,0
+197304020002,1973,4,2,4/2/1973,11,Argentina,-34.6037,-58.381503,6,Hostage Taking (Kidnapping),4,Military,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),13,Unknown,0,0,0
+197304030001,1973,4,3,4/3/1973,603,United Kingdom,54.456438,-5.448951,1,Assassination,14,Private Citizens & Property,Protestant extremists,5,Firearms,1,,0
+197304040001,1973,4,4,4/4/1973,11,Argentina,-31.399301,-64.182129,6,Hostage Taking (Kidnapping),4,Military,Montoneros (Argentina),13,Unknown,1,0,0
+197304040002,1973,4,4,4/4/1973,69,France,48.856614,2.352222,8,Unarmed Assault,6,Airports & Aircraft,Armenians,2,Chemical,0,0,0
+197304040003,1973,4,4,4/4/1973,69,France,48.856614,2.352222,8,Unarmed Assault,7,Government (Diplomatic),Front for Armenian Liberation,2,Chemical,0,0,0
+197304050001,1973,4,5,4/5/1973,11,Argentina,-31.399301,-64.182129,1,Assassination,4,Military,Montoneros (Argentina),5,Firearms,1,0,0
+197304050003,1973,4,5,4/5/1973,11,Argentina,-34.6037,-58.381503,6,Hostage Taking (Kidnapping),4,Military,Unknown,13,Unknown,,,0
+197304050004,1973,4,5,4/5/1973,98,Italy,41.89052,12.494249,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197304060001,1973,4,6,4/6/1973,98,Italy,41.89052,12.494249,7,Facility/Infrastructure Attack,7,Government (Diplomatic),Unknown,8,Incendiary,0,0,1
+197304070001,1973,4,7,4/7/1973,603,United Kingdom,54.192934,-6.576051,3,Bombing/Explosion,4,Military,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,,1
+197304080001,1973,4,8,4/8/1973,11,Argentina,-34.6037,-58.381503,6,Hostage Taking (Kidnapping),1,Business,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),13,Unknown,0,0,0
+197304090001,1973,4,9,4/9/1973,53,Cyprus,35.166718,33.36757,1,Assassination,7,Government (Diplomatic),Black September,5,Firearms,0,1,0
+197304090002,1973,4,9,4/9/1973,98,Italy,41.89052,12.494249,7,Facility/Infrastructure Attack,4,Military,Unknown,8,Incendiary,0,1,1
+197304090003,1973,4,9,4/9/1973,53,Cyprus,35.166719,33.367571,2,Armed Assault,7,Government (Diplomatic),Black September,5,Firearms,0,0,1
+197304090004,1973,4,9,4/9/1973,53,Cyprus,35.16672,33.367572,2,Armed Assault,6,Airports & Aircraft,Black September,5,Firearms,1,0,1
+197304100002,1973,4,10,4/10/1973,217,United States,40.712784,-74.005941,2,Armed Assault,1,Business,Black Liberation Army,5,Firearms,0,0,1
+197304110001,1973,4,11,4/11/1973,603,United Kingdom,54.99451,-7.319996,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197304120001,1973,4,12,4/12/1973,98,Italy,44.106737,9.829219,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197304140001,1973,4,14,4/14/1973,110,Lebanon,33.562839,35.36887,3,Bombing/Explosion,1,Business,Palestinians,6,Explosives/Bombs/Dynamite,0,0,1
+197405010001,1974,5,1,5/1/1974,362,West Germany (FRG),52.505803,13.331741,2,Armed Assault,2,Government (General),Revolutionary Cells,8,Incendiary,0,0,1
+197405010002,1974,5,1,5/1/1974,110,Lebanon,33.262778,35.619444,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197405010003,1974,5,1,5/1/1974,217,United States,40.712784,-74.005941,3,Bombing/Explosion,6,Airports & Aircraft,Unknown,6,Explosives/Bombs/Dynamite,0,2,1
+197405020001,1974,5,2,5/2/1974,603,United Kingdom,54.409928,-7.172562,3,Bombing/Explosion,4,Military,Irish Republican Army (IRA),5,Firearms,1,,1
+197405020002,1974,5,2,5/2/1974,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,1,Business,Ulster Volunteer Force (UVF),6,Explosives/Bombs/Dynamite,6,,1
+197405030001,1974,5,3,5/3/1974,69,France,48.856614,2.352222,6,Hostage Taking (Kidnapping),1,Business,International Revolutionary Action Group (GARI),13,Unknown,0,0,0
+197405030002,1974,5,3,5/3/1974,217,United States,41.30713,-72.924979,2,Armed Assault,1,Business,Black Liberation Army,5,Firearms,0,1,1
+197405040001,1974,5,4,5/4/1974,21,Belgium,50.850335,4.351685,3,Bombing/Explosion,1,Business,International Revolutionary Action Group (GARI),6,Explosives/Bombs/Dynamite,0,0,1
+197405060001,1974,5,6,5/6/1974,11,Argentina,-31.399301,-64.182129,1,Assassination,14,Private Citizens & Property,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),13,Unknown,1,0,0
+197405070001,1974,5,7,5/7/1974,87,Haiti,18.5391667,-72.335,3,Bombing/Explosion,6,Airports & Aircraft,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197405070002,1974,5,7,5/7/1974,603,United Kingdom,54.530715,-6.811011,1,Assassination,14,Private Citizens & Property,Ulster Volunteer Force (UVF),5,Firearms,2,,0
+197405070003,1974,5,7,5/7/1974,603,United Kingdom,54.684823,-5.965868,2,Armed Assault,17,Terrorists/Non-State Militia,Protestant extremists,5,Firearms,2,,1
+197405080001,1974,5,8,5/8/1974,110,Lebanon,33.888629,35.495479,3,Bombing/Explosion,7,Government (Diplomatic),Lebanese Socialist Revolutionary Organization,6,Explosives/Bombs/Dynamite,0,0,1
+197405080002,1974,5,8,5/8/1974,603,United Kingdom,54.671804,-5.957181,1,Assassination,14,Private Citizens & Property,Protestant extremists,5,Firearms,1,,0
+197405090001,1974,5,9,5/9/1974,603,United Kingdom,51.500152,-0.126236,3,Bombing/Explosion,7,Government (Diplomatic),National Front for the Liberation of Cuba (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+197405100001,1974,5,10,5/10/1974,603,United Kingdom,54.560124,-5.983657,1,Assassination,3,Police,Irish Republican Army (IRA),5,Firearms,2,,0
+197405130001,1974,5,13,5/13/1974,603,United Kingdom,54.502852,-6.769568,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,,1
+197405140001,1974,5,14,5/14/1974,130,Mexico,20.97,-89.62,3,Bombing/Explosion,2,Government (General),National Front for the Liberation of Cuba (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+197405160001,1974,5,16,5/16/1974,217,United States,40.78306,-73.971249,8,Unarmed Assault,14,Private Citizens & Property,Jewish Defense League (JDL),9,Melee,0,1,0
+197405160002,1974,5,16,5/16/1974,603,United Kingdom,54.597269,-5.930109,1,Assassination,14,Private Citizens & Property,Protestant extremists,5,Firearms,1,,0
+197506000001,1975,6,0,,185,Spain,41.387917,2.169919,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197506000002,1975,6,0,,185,Spain,39.470239,-0.376805,7,Facility/Infrastructure Attack,2,Government (General),Unknown,8,Incendiary,0,0,1
+197506000003,1975,6,0,,69,France,43.483152,-1.558626,2,Armed Assault,1,Business,Anti-Terrorism ETA (ATE),5,Firearms,0,0,1
+197506010001,1975,6,1,6/1/1975,603,United Kingdom,54.418875,-8.088046,1,Assassination,14,Private Citizens & Property,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,1,,1
+197506030001,1975,6,3,6/3/1975,98,Italy,41.89052,12.494249,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197506030002,1975,6,3,6/3/1975,98,Italy,41.89052,12.494249,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+197506030003,1975,6,3,6/3/1975,98,Italy,41.89052,12.494249,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197506030004,1975,6,3,6/3/1975,603,United Kingdom,54.673252,-7.627484,1,Assassination,14,Private Citizens & Property,Irish Republican Army (IRA),5,Firearms,3,,0
+197506040001,1975,6,4,6/4/1975,185,Spain,40.416691,-3.700345,7,Facility/Infrastructure Attack,10,Journalists & Media,Revolutionary Patriotic Anti-Fascist Front (FRAP),8,Incendiary,0,0,1
+197506050001,1975,6,5,6/5/1975,185,Spain,40.416691,-3.700345,7,Facility/Infrastructure Attack,1,Business,Revolutionary Patriotic Anti-Fascist Front (FRAP),8,Incendiary,0,0,1
+197506050002,1975,6,5,6/5/1975,69,France,48.856614,2.352222,3,Bombing/Explosion,14,Private Citizens & Property,Nationalist Intervention Group,5,Firearms,0,0,1
+197506050003,1975,6,5,6/5/1975,603,United Kingdom,54.597269,-5.930109,1,Assassination,17,Terrorists/Non-State Militia,Official Irish Republican Army (OIRA),5,Firearms,1,,0
+197506060001,1975,6,6,6/6/1975,185,Spain,,,1,Assassination,3,Police,Basque Fatherland and Freedom (ETA),5,Firearms,1,0,0
+197506060002,1975,6,6,6/6/1975,185,Spain,41.387917,2.169919,2,Armed Assault,1,Business,Basque Fatherland and Freedom (ETA),5,Firearms,0,0,1
+197506080001,1975,6,8,6/8/1975,159,Peru,-12.046378,-77.042791,3,Bombing/Explosion,7,Government (Diplomatic),Movement of the Revolutionary Left (MIR) (Peru),6,Explosives/Bombs/Dynamite,0,0,0
+197506080002,1975,6,8,6/8/1975,217,United States,37.777125,-122.419644,1,Assassination,14,Private Citizens & Property,Tribal Thumb,13,Unknown,2,0,0
+197506100001,1975,6,10,6/10/1975,603,United Kingdom,54.597269,-5.930109,1,Assassination,17,Terrorists/Non-State Militia,Irish Republican Army (IRA),5,Firearms,1,,0
+197506100002,1975,6,10,6/10/1975,96,Ireland,51.903347,-8.48825,1,Assassination,14,Private Citizens & Property,Official Irish Republican Army (OIRA),5,Firearms,1,,0
+197506100003,1975,6,10,6/10/1975,603,United Kingdom,54.597269,-5.930109,1,Assassination,14,Private Citizens & Property,Irish Republican Army (IRA),5,Firearms,1,,0
+197506120001,1975,6,12,6/12/1975,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Ulster Volunteer Force (UVF),6,Explosives/Bombs/Dynamite,2,,1
+197607010001,1976,7,1,7/1/1976,217,United States,37.777125,-122.419644,1,Assassination,7,Government (Diplomatic),New World Liberation Front (NWLF),6,Explosives/Bombs/Dynamite,0,1,0
+197607010002,1976,7,1,7/1/1976,217,United States,42.811978,-70.872638,3,Bombing/Explosion,2,Government (General),Fred Hampton Unit of the People's Forces,6,Explosives/Bombs/Dynamite,0,0,1
+197607010003,1976,7,1,7/1/1976,603,United Kingdom,54.597269,-5.930109,1,Assassination,14,Private Citizens & Property,Irish Republican Army (IRA),5,Firearms,1,,0
+197607010004,1976,7,1,7/1/1976,217,United States,37.777125,-122.419644,3,Bombing/Explosion,7,Government (Diplomatic),New World Liberation Front (NWLF),6,Explosives/Bombs/Dynamite,0,0,1
+197607020001,1976,7,2,7/2/1976,11,Argentina,-34.6037,-58.381503,3,Bombing/Explosion,3,Police,Montoneros (Argentina),6,Explosives/Bombs/Dynamite,25,30,1
+197607020002,1976,7,2,7/2/1976,106,Kuwait,29.365,48.001389,7,Facility/Infrastructure Attack,6,Airports & Aircraft,Black September,8,Incendiary,0,0,1
+197607020006,1976,7,2,7/2/1976,603,United Kingdom,54.713382,-6.216761,2,Armed Assault,1,Business,Ulster Volunteer Force (UVF),5,Firearms,6,,1
+197607020007,1976,7,2,7/2/1976,217,United States,42.87568,-70.871914,3,Bombing/Explosion,2,Government (General),Fred Hampton Unit of the People's Forces,6,Explosives/Bombs/Dynamite,0,0,1
+197607020008,1976,7,2,7/2/1976,217,United States,42.358635,-71.056699,3,Bombing/Explosion,4,Military,Fred Hampton Unit of the People's Forces,6,Explosives/Bombs/Dynamite,0,0,1
+197607020009,1976,7,2,7/2/1976,217,United States,42.358635,-71.056699,3,Bombing/Explosion,6,Airports & Aircraft,Fred Hampton Unit of the People's Forces,6,Explosives/Bombs/Dynamite,0,1,1
+197607030001,1976,7,3,7/3/1976,603,United Kingdom,54.99451,-7.319996,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,,0
+197607040001,1976,7,4,7/4/1976,69,France,45.670778,3.577523,3,Bombing/Explosion,2,Government (General),Baader-Meinhof Group,6,Explosives/Bombs/Dynamite,0,0,1
+197607040002,1976,7,4,7/4/1976,217,United States,42.40807,-71.013589,3,Bombing/Explosion,1,Business,United Freedom Front (UFF),6,Explosives/Bombs/Dynamite,0,0,1
+197607060001,1976,7,6,7/6/1976,26,Bolivia,-16.500194,-68.150162,3,Bombing/Explosion,2,Government (General),Revolutionary Workers Party of Bolivia (PRTB),6,Explosives/Bombs/Dynamite,0,0,1
+197607060002,1976,7,6,7/6/1976,603,United Kingdom,54.597269,-5.930109,1,Assassination,14,Private Citizens & Property,Irish Republican Army (IRA),5,Firearms,1,,0
+197607070001,1976,7,7,7/7/1976,603,United Kingdom,54.597269,-5.930109,1,Assassination,1,Business,Ulster Freedom Fighters (UFF),5,Firearms,1,,0
+197607090001,1976,7,9,7/9/1976,49,Costa Rica,9.933333,-84.083333,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,,,1
+197607090002,1976,7,9,7/9/1976,98,Italy,44.49419,11.346518,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Black Order,8,Incendiary,0,0,1
+197607090003,1976,7,9,7/9/1976,100,Jamaica,18,-76.8,3,Bombing/Explosion,6,Airports & Aircraft,National Front for the Liberation of Cuba (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+197607090004,1976,7,9,7/9/1976,603,United Kingdom,54.644981,-5.928601,1,Assassination,14,Private Citizens & Property,Ulster Freedom Fighters (UFF),5,Firearms,2,,0
+197708010001,1977,8,1,8/1/1977,209,Turkey,39.039792,38.496376,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,2,1
+197708010002,1977,8,1,8/1/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,,,1
+197708010003,1977,8,1,8/1/1977,217,United States,45.336518,-122.592784,3,Bombing/Explosion,1,Business,Environmental Life Force,6,Explosives/Bombs/Dynamite,0,0,1
+197708010004,1977,8,1,8/1/1977,209,Turkey,39.922071,32.853471,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,0,0,1
+197708010005,1977,8,1,8/1/1977,209,Turkey,39.922071,32.853471,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,,,1
+197708010006,1977,8,1,8/1/1977,209,Turkey,39.922071,32.853471,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,0,0,1
+197708020001,1977,8,2,8/2/1977,209,Turkey,41.07909,29.005004,9,Unknown,14,Private Citizens & Property,Unknown,13,Unknown,1,0,0
+197708020002,1977,8,2,8/2/1977,209,Turkey,41.015059,28.940847,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+197708020003,1977,8,2,8/2/1977,209,Turkey,38.419144,27.135695,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020004,1977,8,2,8/2/1977,209,Turkey,38.419144,27.135695,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020005,1977,8,2,8/2/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020006,1977,8,2,8/2/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020007,1977,8,2,8/2/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020008,1977,8,2,8/2/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020009,1977,8,2,8/2/1977,209,Turkey,36.885077,30.706351,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020010,1977,8,2,8/2/1977,209,Turkey,36.885077,30.706351,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708020011,1977,8,2,8/2/1977,209,Turkey,38.419144,27.135695,2,Armed Assault,7,Government (Diplomatic),Unknown,5,Firearms,0,0,1
+197708020012,1977,8,2,8/2/1977,209,Turkey,41.003414,28.906891,2,Armed Assault,1,Business,Unknown,5,Firearms,,,1
+197708030001,1977,8,3,8/3/1977,209,Turkey,39.922071,32.853471,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197708030002,1977,8,3,8/3/1977,209,Turkey,36.885077,30.706351,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197809010001,1978,9,1,9/1/1978,11,Argentina,-34.51048,-58.496391,3,Bombing/Explosion,1,Business,Montoneros (Argentina),6,Explosives/Bombs/Dynamite,0,0,1
+197809010002,1978,9,1,9/1/1978,59,Ecuador,-2.170832,-79.922359,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,0,7,1
+197809020001,1978,9,2,9/2/1978,139,Namibia,-22.305197,17.827417,1,Assassination,2,Government (General),South-West Africa People's Organization (SWAPO),5,Firearms,1,0,0
+197809020002,1978,9,2,9/2/1978,160,Philippines,7.826201,123.436552,2,Armed Assault,4,Military,Moro National Liberation Front (MNLF),5,Firearms,10,3,1
+197809020003,1978,9,2,9/2/1978,160,Philippines,,,2,Armed Assault,2,Government (General),Moro National Liberation Front (MNLF),5,Firearms,4,,1
+197809030001,1978,9,3,9/3/1978,101,Japan,35.776608,140.318781,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,,,1
+197809030002,1978,9,3,9/3/1978,159,Peru,-12.046378,-77.042791,6,Hostage Taking (Kidnapping),10,Journalists & Media,Peruvian Anti-Communist Alliance (AAP),13,Unknown,0,0,0
+197809030003,1978,9,3,9/3/1978,45,Colombia,6.04278,-74.99493,2,Armed Assault,3,Police,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,0,0,1
+197809040001,1978,9,4,9/4/1978,101,Japan,35.607221,140.10627,7,Facility/Infrastructure Attack,3,Police,Chukakuha (Middle Core Faction),8,Incendiary,0,0,1
+197809040002,1978,9,4,9/4/1978,101,Japan,35.685826,139.756684,2,Armed Assault,3,Police,Chukakuha (Middle Core Faction),8,Incendiary,0,0,1
+197809040003,1978,9,4,9/4/1978,403,Rhodesia,-16.788805,28.853974,3,Bombing/Explosion,6,Airports & Aircraft,Zimbabwe African People's Union,6,Explosives/Bombs/Dynamite,48,,1
+197809040004,1978,9,4,9/4/1978,217,United States,18.46617,-66.106654,5,Hostage Taking (Barricade Incident),10,Journalists & Media,Revolutionary Commandos of the People (CRP),5,Firearms,0,0,1
+197809050001,1978,9,5,9/5/1978,603,United Kingdom,54.18006,-6.33393,1,Assassination,4,Military,Irish Republican Army (IRA),5,Firearms,1,0,0
+197809050002,1978,9,5,9/5/1978,97,Israel,31.766496,35.21172,3,Bombing/Explosion,18,Tourists,Palestinians,6,Explosives/Bombs/Dynamite,0,0,1
+197809050003,1978,9,5,9/5/1978,97,Israel,31.766496,35.21172,3,Bombing/Explosion,1,Business,Palestinians,6,Explosives/Bombs/Dynamite,0,2,1
+197809050004,1978,9,5,9/5/1978,98,Italy,43.768732,11.256901,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197809050005,1978,9,5,9/5/1978,45,Colombia,,,2,Armed Assault,14,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,3,,1
+197809060001,1978,9,6,9/6/1978,53,Cyprus,35.166723,33.367575,2,Armed Assault,3,Police,National Organization of Cypriot Fighters (EOKA),5,Firearms,,1,1
+197809060002,1978,9,6,9/6/1978,94,Iran,35.696442,51.422974,2,Armed Assault,3,Police,Mujahedin-e Khalq (MEK),5,Firearms,1,3,1
+197809060003,1978,9,6,9/6/1978,160,Philippines,8.004674,124.2913,2,Armed Assault,4,Military,Moro National Liberation Front (MNLF),5,Firearms,,2,1
+197910000001,1979,10,0,,45,Colombia,1.851988,-76.046976,5,Hostage Taking (Barricade Incident),10,Journalists & Media,M-19 (Movement of April 19),5,Firearms,0,0,1
+197910010001,1979,10,1,10/1/1979,61,El Salvador,13.6769444,-89.2797222,2,Armed Assault,2,Government (General),People's Liberation Forces (FPL),8,Incendiary,0,0,1
+197910010002,1979,10,1,10/1/1979,61,El Salvador,13.6769444,-89.2797222,3,Bombing/Explosion,2,Government (General),People's Liberation Forces (FPL),6,Explosives/Bombs/Dynamite,0,0,1
+197910010003,1979,10,1,10/1/1979,603,United Kingdom,54.597269,-5.930109,7,Facility/Infrastructure Attack,1,Business,Irish Republican Army (IRA),8,Incendiary,,,1
+197910010004,1979,10,1,10/1/1979,162,Portugal,40.314312,-7.800717,1,Assassination,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197910010005,1979,10,1,10/1/1979,61,El Salvador,13.64121,-88.785423,1,Assassination,4,Military,People's Liberation Forces (FPL),5,Firearms,1,0,0
+197910010006,1979,10,1,10/1/1979,61,El Salvador,13.64121,-88.785423,1,Assassination,14,Private Citizens & Property,People's Liberation Forces (FPL),5,Firearms,1,0,0
+197910010007,1979,10,1,10/1/1979,94,Iran,36.32396,59.556959,1,Assassination,15,Religious Figures/Institutions,Unknown,5,Firearms,1,0,0
+197910010008,1979,10,1,10/1/1979,61,El Salvador,13.69288,-89.199161,2,Armed Assault,3,Police,Unknown,5,Firearms,4,0,1
+197910010009,1979,10,1,10/1/1979,61,El Salvador,13.69288,-89.199161,2,Armed Assault,1,Business,Popular Revolutionary Bloc (BPR),5,Firearms,0,0,1
+197910010010,1979,10,1,10/1/1979,61,El Salvador,13.69288,-89.199161,6,Hostage Taking (Kidnapping),1,Business,Popular Revolutionary Bloc (BPR),5,Firearms,,,1
+197910010011,1979,10,1,10/1/1979,94,Iran,31.285506,48.643416,7,Facility/Infrastructure Attack,21,Utilities,Arab Separatists,5,Firearms,0,0,1
+197910010012,1979,10,1,10/1/1979,185,Spain,43.256963,-2.923441,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,0,0,1
+197910010013,1979,10,1,10/1/1979,113,Libya,32.860753,13.201396,1,Assassination,22,Violent Political Party,Unknown,2,Chemical,0,1,0
+197910020001,1979,10,2,10/2/1979,45,Colombia,6.48927,-74.40176,3,Bombing/Explosion,4,Military,Revolutionary Armed Forces of Colombia (FARC),6,Explosives/Bombs/Dynamite,7,4,1
+197910020002,1979,10,2,10/2/1979,94,Iran,30.421488,48.207451,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+197910020003,1979,10,2,10/2/1979,155,West Bank and Gaza Strip,,,3,Bombing/Explosion,1,Business,Palestinians,6,Explosives/Bombs/Dynamite,0,0,1
+197910020004,1979,10,2,10/2/1979,61,El Salvador,13.69288,-89.199161,2,Armed Assault,4,Military,People's Liberation Forces (FPL),5,Firearms,2,0,0
+197910020005,1979,10,2,10/2/1979,61,El Salvador,13.819602,-87.83913,2,Armed Assault,4,Military,People's Liberation Forces (FPL),5,Firearms,2,0,1
+197910020006,1979,10,2,10/2/1979,94,Iran,36.7652,45.722417,9,Unknown,10,Journalists & Media,Unknown,13,Unknown,0,0,1
+198011000001,1980,11,0,,98,Italy,46.496714,11.358008,7,Facility/Infrastructure Attack,21,Utilities,Tyrol Separatists,13,Unknown,0,0,1
+198011000002,1980,11,0,,603,United Kingdom,54.18006,-6.33393,3,Bombing/Explosion,14,Private Citizens & Property,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,1,0,1
+198011000003,1980,11,0,,185,Spain,42.817988,-1.644184,3,Bombing/Explosion,14,Private Citizens & Property,Spanish Basque Battalion (BBE) (rightist),6,Explosives/Bombs/Dynamite,,,1
+198011000004,1980,11,0,,69,France,43.232951,0.078082,1,Assassination,14,Private Citizens & Property,Basque Fatherland and Freedom (ETA),13,Unknown,1,0,0
+198011000005,1980,11,0,,98,Italy,45.463681,9.188171,1,Assassination,1,Business,Red Brigades,5,Firearms,1,0,0
+198011010001,1980,11,1,11/1/1980,98,Italy,41.89052,12.494249,3,Bombing/Explosion,6,Airports & Aircraft,October Third Movement,6,Explosives/Bombs/Dynamite,0,6,1
+198011010002,1980,11,1,11/1/1980,231,Zimbabwe,-17.825166,31.03351,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+198011010003,1980,11,1,11/1/1980,95,Iraq,33.3,44.4,1,Assassination,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,1,0
+198011010004,1980,11,1,11/1/1980,155,West Bank and Gaza Strip,31.529396,34.479741,1,Assassination,2,Government (General),Palestine Liberation Organization (PLO),5,Firearms,1,0,0
+198011010005,1980,11,1,11/1/1980,217,United States,41.0981,-80.650789,2,Armed Assault,14,Private Citizens & Property,White extremists,5,Firearms,1,0,0
+198011020001,1980,11,2,11/2/1980,88,Honduras,14.0833,-87.2167,3,Bombing/Explosion,7,Government (Diplomatic),Lorenzo Zelaya Revolutionary Front (LZRF),6,Explosives/Bombs/Dynamite,0,4,1
+198011020003,1980,11,2,11/2/1980,61,El Salvador,13.933732,-89.025836,1,Assassination,8,Educational Institution,Unknown,5,Firearms,1,0,0
+198011020004,1980,11,2,11/2/1980,61,El Salvador,14.09396,-88.889278,2,Armed Assault,4,Military,Unknown,5,Firearms,4,,1
+198011020005,1980,11,2,11/2/1980,61,El Salvador,14.122595,-89.221206,2,Armed Assault,4,Military,Unknown,5,Firearms,10,6,1
+198011020006,1980,11,2,11/2/1980,222,Venezuela,10.502961,-66.917253,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,0,0,1
+198011030001,1980,11,3,11/3/1980,43,Chile,-33.469115,-70.641997,7,Facility/Infrastructure Attack,2,Government (General),Movement of the Revolutionary Left (MIR) (Chile),8,Incendiary,0,0,0
+198011030002,1980,11,3,11/3/1980,43,Chile,-33.469115,-70.641997,7,Facility/Infrastructure Attack,10,Journalists & Media,Movement of the Revolutionary Left (MIR) (Chile),8,Incendiary,0,0,0
+198011030003,1980,11,3,11/3/1980,61,El Salvador,13.69288,-89.199161,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198011030004,1980,11,3,11/3/1980,83,Guatemala,14.2308,-90.9472,9,Unknown,2,Government (General),Unknown,13,Unknown,0,0,0
+198011030005,1980,11,3,11/3/1980,61,El Salvador,13.69288,-89.199161,2,Armed Assault,4,Military,Unknown,5,Firearms,5,0,0
+198112000002,1981,12,0,,94,Iran,,,1,Assassination,2,Government (General),Unknown,13,Unknown,1,0,0
+198112000003,1981,12,0,,94,Iran,,,1,Assassination,2,Government (General),Unknown,13,Unknown,1,0,0
+198112000004,1981,12,0,,217,United States,40.712784,-74.005941,3,Bombing/Explosion,7,Government (Diplomatic),Jewish Defense League (JDL),8,Incendiary,0,0,1
+198112000005,1981,12,0,,145,Nicaragua,14.71297,-84.18863,6,Hostage Taking (Kidnapping),1,Business,Contras,5,Firearms,,,1
+198112000006,1981,12,0,,145,Nicaragua,14.74189,-83.9717,2,Armed Assault,4,Military,Contras,5,Firearms,7,0,1
+198112010001,1981,12,1,12/1/1981,159,Peru,-13.630328,-72.88443,3,Bombing/Explosion,16,Telecommunication,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198112010002,1981,12,1,12/1/1981,205,Thailand,13.727896,100.524123,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198112010003,1981,12,1,12/1/1981,61,El Salvador,13.3166667,-88.5833333,2,Armed Assault,1,Business,Unknown,5,Firearms,,,1
+198112010004,1981,12,1,12/1/1981,61,El Salvador,13.69288,-89.199161,2,Armed Assault,1,Business,Unknown,5,Firearms,,,1
+198112010005,1981,12,1,12/1/1981,83,Guatemala,14.791944,-91.920556,9,Unknown,14,Private Citizens & Property,large group,13,Unknown,1,1,1
+198112010006,1981,12,1,12/1/1981,83,Guatemala,14.563479,-90.982067,2,Armed Assault,4,Military,Unknown,5,Firearms,70,0,1
+198112010007,1981,12,1,12/1/1981,83,Guatemala,14.85,-91.05,2,Armed Assault,4,Military,Unknown,5,Firearms,13,0,1
+198112010008,1981,12,1,12/1/1981,145,Nicaragua,11.478161,-84.773332,2,Armed Assault,1,Business,Revolutionary Armed Forces of Nicaragua (FARN),5,Firearms,6,0,1
+198112010009,1981,12,1,12/1/1981,159,Peru,-8.111825,-79.02866,3,Bombing/Explosion,6,Airports & Aircraft,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+198112020001,1981,12,2,12/2/1981,61,El Salvador,13.466667,-88.183333,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198112020002,1981,12,2,12/2/1981,61,El Salvador,13.3369444,-87.8438889,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198112020003,1981,12,2,12/2/1981,61,El Salvador,13.69288,-89.199161,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198112020004,1981,12,2,12/2/1981,83,Guatemala,14.775882,-90.453847,3,Bombing/Explosion,3,Police,Unknown,5,Firearms,3,0,1
+198112020005,1981,12,2,12/2/1981,83,Guatemala,14.668509,-90.357622,7,Facility/Infrastructure Attack,3,Police,Unknown,13,Unknown,1,0,1
+198112020006,1981,12,2,12/2/1981,83,Guatemala,14.760547,-90.372482,7,Facility/Infrastructure Attack,3,Police,Unknown,13,Unknown,1,0,1
+198200000001,1982,0,0,,38,Canada,43.6666667,-79.4166667,3,Bombing/Explosion,7,Government (Diplomatic),Armenian Secret Army for the Liberation of Armenia,6,Explosives/Bombs/Dynamite,0,0,1
+198201000001,1982,1,0,,83,Guatemala,15.73356,-91.456944,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198201000002,1982,1,0,,94,Iran,,,3,Bombing/Explosion,4,Military,Mujahedin-e Khalq (MEK),13,Unknown,3,0,1
+198201000003,1982,1,0,,45,Colombia,,,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Unknown,13,Unknown,0,0,0
+198201000004,1982,1,0,,45,Colombia,,,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Unknown,13,Unknown,0,0,0
+198201000005,1982,1,0,,45,Colombia,,,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),National Liberation Army of Colombia (ELN),13,Unknown,0,0,0
+198201000006,1982,1,0,,83,Guatemala,14.646389,-90.733889,9,Unknown,21,Utilities,Unknown,13,Unknown,0,0,1
+198201000007,1982,1,0,,83,Guatemala,15.347892,-90.87235,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Unknown,13,Unknown,,,1
+198201010001,1982,1,1,1/1/1982,83,Guatemala,14.624422,-90.53288,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198201010002,1982,1,1,1/1/1982,61,El Salvador,13.69288,-89.199161,5,Hostage Taking (Barricade Incident),10,Journalists & Media,Unknown,5,Firearms,0,0,1
+198201010003,1982,1,1,1/1/1982,145,Nicaragua,,,2,Armed Assault,3,Police,Contras,5,Firearms,15,0,1
+198201010004,1982,1,1,1/1/1982,603,United Kingdom,54.208418,-5.891745,3,Bombing/Explosion,14,Private Citizens & Property,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,1,,1
+198201020001,1982,1,2,1/2/1982,110,Lebanon,34.438103,35.830841,3,Bombing/Explosion,21,Utilities,Iraqi extremists,6,Explosives/Bombs/Dynamite,,,1
+198201030001,1982,1,3,1/3/1982,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198201030002,1982,1,3,1/3/1982,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198201030003,1982,1,3,1/3/1982,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198201030004,1982,1,3,1/3/1982,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198201030005,1982,1,3,1/3/1982,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,,,1
+198201030006,1982,1,3,1/3/1982,83,Guatemala,14.403889,-90.698611,2,Armed Assault,14,Private Citizens & Property,Guerrilla Army of the Poor (EGP),8,Incendiary,0,0,1
+198201030007,1982,1,3,1/3/1982,61,El Salvador,13.9572222,-89.1897222,2,Armed Assault,4,Military,Unknown,5,Firearms,,,1
+198302000001,1983,2,0,,159,Peru,-7.815617,-78.048885,3,Bombing/Explosion,2,Government (General),Shining Path (SL),6,Explosives/Bombs/Dynamite,,,1
+198302000002,1983,2,0,,97,Israel,,,3,Bombing/Explosion,14,Private Citizens & Property,Palestinians,6,Explosives/Bombs/Dynamite,0,0,1
+198302000003,1983,2,0,,139,Namibia,,,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,South-West Africa People's Organization (SWAPO),13,Unknown,,,0
+198302000004,1983,2,0,,45,Colombia,6.313712,-73.950146,1,Assassination,14,Private Citizens & Property,Death to Kidnappers (MAS),13,Unknown,4,0,0
+198302000005,1983,2,0,,603,United Kingdom,54.620693,-6.217727,3,Bombing/Explosion,1,Business,Irish National Liberation Army (INLA),6,Explosives/Bombs/Dynamite,0,0,1
+198302000006,1983,2,0,,603,United Kingdom,54.99451,-7.319996,7,Facility/Infrastructure Attack,2,Government (General),Irish National Liberation Army (INLA),8,Incendiary,0,0,1
+198302000007,1983,2,0,,603,United Kingdom,54.99451,-7.319996,7,Facility/Infrastructure Attack,10,Journalists & Media,Irish National Liberation Army (INLA),8,Incendiary,0,0,1
+198302000008,1983,2,0,,159,Peru,-7.815617,-78.048885,9,Unknown,3,Police,Shining Path (SL),13,Unknown,,,1
+198302010001,1983,2,1,2/1/1983,199,Switzerland,46.947922,7.444608,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+198302010002,1983,2,1,2/1/1983,603,United Kingdom,51.500152,-0.126236,3,Bombing/Explosion,7,Government (Diplomatic),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198302010003,1983,2,1,2/1/1983,45,Colombia,4.602489,-74.093032,6,Hostage Taking (Kidnapping),1,Business,Unknown,13,Unknown,0,0,0
+198302010004,1983,2,1,2/1/1983,8,Angola,-12.765538,15.732861,9,Unknown,4,Military,National Union for the Total Independence of Angola (UNITA),13,Unknown,3,0,1
+198302020001,1983,2,2,2/2/1983,185,Spain,43.325239,-3.011475,3,Bombing/Explosion,19,Transportation,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+198302020002,1983,2,2,2/2/1983,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+198302020003,1983,2,2,2/2/1983,603,United Kingdom,51.500152,-0.126236,3,Bombing/Explosion,10,Journalists & Media,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198302020004,1983,2,2,2/2/1983,11,Argentina,-34.6037,-58.381503,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198302020005,1983,2,2,2/2/1983,110,Lebanon,33.730527,35.454738,3,Bombing/Explosion,2,Government (General),Palestinians,6,Explosives/Bombs/Dynamite,1,1,1
+198302020006,1983,2,2,2/2/1983,45,Colombia,4.602489,-74.093032,6,Hostage Taking (Kidnapping),1,Business,Unknown,13,Unknown,,,0
+198302020007,1983,2,2,2/2/1983,110,Lebanon,33.888629,35.495479,1,Assassination,12,NGO,Unknown,5,Firearms,0,2,0
+198302020008,1983,2,2,2/2/1983,155,West Bank and Gaza Strip,,,7,Facility/Infrastructure Attack,21,Utilities,Palestinians,8,Incendiary,,,1
+198403000001,1984,3,0,,83,Guatemala,14.533333,-91.316667,3,Bombing/Explosion,4,Military,Revolutionary Organization of People in Arms (ORPA),6,Explosives/Bombs/Dynamite,11,0,1
+198403000003,1984,3,0,,45,Colombia,8.09242,-76.72738,1,Assassination,14,Private Citizens & Property,Popular Liberation Army (EPL),13,Unknown,2,0,0
+198403000004,1984,3,0,,45,Colombia,8.09242,-76.72738,1,Assassination,14,Private Citizens & Property,Popular Liberation Army (EPL),13,Unknown,3,0,0
+198403000005,1984,3,0,,159,Peru,-13.163874,-74.223564,1,Assassination,1,Business,Shining Path (SL),5,Firearms,1,0,0
+198403000006,1984,3,0,,159,Peru,-13.163874,-74.223564,1,Assassination,1,Business,Shining Path (SL),5,Firearms,1,0,0
+198403000007,1984,3,0,,159,Peru,-15.714444,-71.452222,2,Armed Assault,4,Military,Shining Path (SL),5,Firearms,0,4,1
+198403010001,1984,3,1,3/1/1984,43,Chile,-36.818977,-73.050319,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010002,1984,3,1,3/1/1984,43,Chile,-36.818977,-73.050319,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010003,1984,3,1,3/1/1984,43,Chile,-36.818977,-73.050319,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010004,1984,3,1,3/1/1984,43,Chile,-36.818977,-73.050319,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010005,1984,3,1,3/1/1984,43,Chile,-36.818977,-73.050319,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010006,1984,3,1,3/1/1984,43,Chile,-33.045632,-71.620529,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010007,1984,3,1,3/1/1984,43,Chile,-33.045632,-71.620529,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010008,1984,3,1,3/1/1984,43,Chile,-33.045632,-71.620529,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010009,1984,3,1,3/1/1984,43,Chile,-33.045632,-71.620529,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010010,1984,3,1,3/1/1984,43,Chile,-33.469115,-70.641997,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010011,1984,3,1,3/1/1984,43,Chile,-33.469115,-70.641997,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010012,1984,3,1,3/1/1984,43,Chile,-33.469115,-70.641997,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010013,1984,3,1,3/1/1984,43,Chile,-33.469115,-70.641997,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198403010014,1984,3,1,3/1/1984,43,Chile,-33.469115,-70.641997,3,Bombing/Explosion,21,Utilities,Movement of the Revolutionary Left (MIR) (Chile),6,Explosives/Bombs/Dynamite,,,1
+198504010001,1985,4,1,4/1/1985,185,Spain,42.846718,-2.671635,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,2,1
+198504010002,1985,4,1,4/1/1985,45,Colombia,2.44186,-76.60617,1,Assassination,1,Business,Ricardo Franco Front (Dissident FARC),6,Explosives/Bombs/Dynamite,0,0,1
+198504010003,1985,4,1,4/1/1985,45,Colombia,2.44186,-76.60617,3,Bombing/Explosion,21,Utilities,Ricardo Franco Front (Dissident FARC),6,Explosives/Bombs/Dynamite,0,0,1
+198504010004,1985,4,1,4/1/1985,45,Colombia,6.270526,-75.572173,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198504010005,1985,4,1,4/1/1985,45,Colombia,3.261782,-76.540886,7,Facility/Infrastructure Attack,19,Transportation,M-19 (Movement of April 19),8,Incendiary,0,0,1
+198504010006,1985,4,1,4/1/1985,45,Colombia,3.261782,-76.540886,7,Facility/Infrastructure Attack,19,Transportation,M-19 (Movement of April 19),8,Incendiary,0,0,1
+198504010007,1985,4,1,4/1/1985,45,Colombia,3.261782,-76.540886,7,Facility/Infrastructure Attack,19,Transportation,M-19 (Movement of April 19),8,Incendiary,0,0,1
+198504020001,1985,4,2,4/2/1985,53,Cyprus,35.16674,33.367592,1,Assassination,1,Business,Arab Unionist Nationalist Organization,13,Unknown,1,0,0
+198504030001,1985,4,3,4/3/1985,603,United Kingdom,54.18006,-6.33393,3,Bombing/Explosion,3,Police,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,6,1
+198504030002,1985,4,3,4/3/1985,83,Guatemala,14.624422,-90.53288,1,Assassination,3,Police,Unknown,13,Unknown,6,0,0
+198504040001,1985,4,4,4/4/1985,186,Sri Lanka,7.785305,81.427899,3,Bombing/Explosion,3,Police,Separatists,6,Explosives/Bombs/Dynamite,9,10,1
+198504040002,1985,4,4,4/4/1985,603,United Kingdom,54.18006,-6.33393,3,Bombing/Explosion,2,Government (General),Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,2,9,1
+198504040003,1985,4,4,4/4/1985,83,Guatemala,14.624422,-90.53288,1,Assassination,2,Government (General),Unknown,13,Unknown,1,0,0
+198504040004,1985,4,4,4/4/1985,159,Peru,-12.097283,-76.995104,1,Assassination,4,Military,Unknown,5,Firearms,0,1,0
+198504040005,1985,4,4,4/4/1985,78,Greece,37.97918,23.716647,3,Bombing/Explosion,6,Airports & Aircraft,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198504040006,1985,4,4,4/4/1985,8,Angola,,,9,Unknown,21,Utilities,National Union for the Total Independence of Angola (UNITA),13,Unknown,0,0,1
+198504050001,1985,4,5,4/5/1985,45,Colombia,2.56855,-72.64184,2,Armed Assault,4,Military,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,3,0,1
+198504070001,1985,4,7,4/7/1985,78,Greece,37.97918,23.716647,7,Facility/Infrastructure Attack,2,Government (General),Unknown,8,Incendiary,,,1
+198504070002,1985,4,7,4/7/1985,45,Colombia,3.375833,-74.801389,9,Unknown,3,Police,Quintin Lame,13,Unknown,2,1,1
+198504070003,1985,4,7,4/7/1985,186,Sri Lanka,6.927079,79.861243,9,Unknown,4,Military,Separatists,13,Unknown,4,0,1
+198605010001,1986,5,1,5/1/1986,78,Greece,35.370498,24.149585,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+198605010002,1986,5,1,5/1/1986,155,West Bank and Gaza Strip,31.356553,34.326901,1,Assassination,14,Private Citizens & Property,Unknown,13,Unknown,1,0,0
+198605010003,1986,5,1,5/1/1986,45,Colombia,7.131202,-73.124973,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Popular Liberation Army (EPL),13,Unknown,0,0,0
+198605010004,1986,5,1,5/1/1986,110,Lebanon,33.888629,35.495479,6,Hostage Taking (Kidnapping),4,Military,Amal,13,Unknown,0,0,0
+198605010005,1986,5,1,5/1/1986,183,South Africa,,,1,Assassination,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,0,2,0
+198605030001,1986,5,3,5/3/1986,186,Sri Lanka,6.927079,79.861243,3,Bombing/Explosion,6,Airports & Aircraft,Liberation Tigers of Tamil Eelam (LTTE),6,Explosives/Bombs/Dynamite,14,23,1
+198605030002,1986,5,3,5/3/1986,222,Venezuela,10.632808,-71.632977,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+198605030003,1986,5,3,5/3/1986,499,East Germany (GDR),52.516667,13.4,1,Assassination,7,Government (Diplomatic),Unknown,5,Firearms,1,0,0
+198605030004,1986,5,3,5/3/1986,185,Spain,43.320812,-1.984447,1,Assassination,14,Private Citizens & Property,Basque Fatherland and Freedom (ETA),5,Firearms,1,0,0
+198605030005,1986,5,3,5/3/1986,603,United Kingdom,54.597269,-5.930109,8,Unarmed Assault,14,Private Citizens & Property,Irish Republican Extremists,9,Melee,1,,0
+198605040001,1986,5,4,5/4/1986,362,West Germany (FRG),49.663015,8.013007,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198605040002,1986,5,4,5/4/1986,97,Israel,31.766496,35.21172,3,Bombing/Explosion,1,Business,Force 17,6,Explosives/Bombs/Dynamite,0,0,1
+198605040003,1986,5,4,5/4/1986,97,Israel,31.766496,35.21172,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198605040004,1986,5,4,5/4/1986,159,Peru,-12.939782,-74.247478,3,Bombing/Explosion,14,Private Citizens & Property,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198605040005,1986,5,4,5/4/1986,45,Colombia,6.538423,-75.087737,2,Armed Assault,4,Military,M-19 (Movement of April 19),5,Firearms,4,0,1
+198605040006,1986,5,4,5/4/1986,45,Colombia,4.528694,-75.703846,2,Armed Assault,2,Government (General),Unknown,5,Firearms,3,0,1
+198605040007,1986,5,4,5/4/1986,83,Guatemala,16.9675,-89.910278,2,Armed Assault,4,Military,Rebel Armed Forces of Guatemala (FAR),5,Firearms,3,0,1
+198605040008,1986,5,4,5/4/1986,45,Colombia,7.472906,-73.203699,1,Assassination,1,Business,Unknown,5,Firearms,5,0,0
+198605040009,1986,5,4,5/4/1986,45,Colombia,6.270526,-75.572173,1,Assassination,3,Police,Unknown,6,Explosives/Bombs/Dynamite,1,0,0
+198605050001,1986,5,5,5/5/1986,45,Colombia,6.270526,-75.572173,1,Assassination,1,Business,Unknown,5,Firearms,3,0,0
+198706010001,1987,6,1,6/1/1987,61,El Salvador,13.69288,-89.199161,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198706010002,1987,6,1,6/1/1987,61,El Salvador,13.69288,-89.199161,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198706010003,1987,6,1,6/1/1987,45,Colombia,4.582298,-74.219465,6,Hostage Taking (Kidnapping),3,Police,National Liberation Army of Colombia (ELN),5,Firearms,1,0,1
+198706010004,1987,6,1,6/1/1987,88,Honduras,13.93347075,-87.24697495,9,Unknown,4,Military,Farabundo Marti National Liberation Front (FMLN),13,Unknown,5,0,1
+198706010005,1987,6,1,6/1/1987,145,Nicaragua,12.87997796,-85.41202545,2,Armed Assault,2,Government (General),Nicaraguan Democratic Force (FDN),5,Firearms,0,0,1
+198706010006,1987,6,1,6/1/1987,159,Peru,-8.459251,-76.461991,3,Bombing/Explosion,3,Police,Shining Path (SL),6,Explosives/Bombs/Dynamite,6,6,1
+198706010007,1987,6,1,6/1/1987,186,Sri Lanka,7.29384,80.640669,2,Armed Assault,15,Religious Figures/Institutions,Liberation Tigers of Tamil Eelam (LTTE),5,Firearms,30,0,1
+198706010008,1987,6,1,6/1/1987,96,Ireland,54.17048,-8.14269,1,Assassination,3,Police,Irish Republican Army (IRA),5,Firearms,1,0,0
+198706010009,1987,6,1,6/1/1987,110,Lebanon,34.438094,35.830837,1,Assassination,2,Government (General),Lebanese Secret Army,6,Explosives/Bombs/Dynamite,1,14,0
+198706010010,1987,6,1,6/1/1987,160,Philippines,14.596051,120.978666,1,Assassination,8,Educational Institution,New People's Army (NPA),5,Firearms,1,0,0
+198706010011,1987,6,1,6/1/1987,231,Zimbabwe,-20.120995,28.62729,1,Assassination,18,Tourists,Unknown,5,Firearms,2,0,0
+198706010013,1987,6,1,6/1/1987,45,Colombia,6.547306,-71.002231,3,Bombing/Explosion,21,Utilities,National Liberation Army of Colombia (ELN),6,Explosives/Bombs/Dynamite,0,0,1
+198706020001,1987,6,2,6/2/1987,11,Argentina,-34.6037,-58.381503,7,Facility/Infrastructure Attack,2,Government (General),Unknown,8,Incendiary,0,0,1
+198706020002,1987,6,2,6/2/1987,92,India,31.326015,75.576183,3,Bombing/Explosion,1,Business,Sikh Extremists,6,Explosives/Bombs/Dynamite,4,30,1
+198706020003,1987,6,2,6/2/1987,153,Pakistan,33.600399,73.043426,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,27,1
+198706020005,1987,6,2,6/2/1987,45,Colombia,10.266667,-75.466667,2,Armed Assault,4,Military,National Liberation Army of Colombia (ELN),5,Firearms,2,0,1
+198706020006,1987,6,2,6/2/1987,45,Colombia,3.420628,-76.522119,3,Bombing/Explosion,1,Business,Comuneros,6,Explosives/Bombs/Dynamite,0,0,1
+198706020007,1987,6,2,6/2/1987,61,El Salvador,13.619026,-88.930144,3,Bombing/Explosion,14,Private Citizens & Property,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,2,2,1
+198706020008,1987,6,2,6/2/1987,145,Nicaragua,11.9666667,-85.1666667,2,Armed Assault,4,Military,Nicaraguan Democratic Force (FDN),5,Firearms,7,0,1
+198706020009,1987,6,2,6/2/1987,145,Nicaragua,14.15291569,-85.07312012,2,Armed Assault,1,Business,Nicaraguan Democratic Force (FDN),5,Firearms,0,0,1
+198807010001,1988,7,1,7/1/1988,159,Peru,-11.722374,-75.082651,1,Assassination,14,Private Citizens & Property,Shining Path (SL),5,Firearms,1,0,0
+198807010002,1988,7,1,7/1/1988,92,India,27.036007,88.262675,3,Bombing/Explosion,2,Government (General),Gurkha National Liberation Front (GNLF),6,Explosives/Bombs/Dynamite,0,1,1
+198807010003,1988,7,1,7/1/1988,110,Lebanon,33.888629,35.495479,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,36,1
+198807010004,1988,7,1,7/1/1988,110,Lebanon,33.772815,35.8979,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,11,0,1
+198807010005,1988,7,1,7/1/1988,183,South Africa,-25.746096,28.186455,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,14,1
+198807010006,1988,7,1,7/1/1988,183,South Africa,-26.177929,27.974858,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+198807010007,1988,7,1,7/1/1988,160,Philippines,8.948247,125.541107,1,Assassination,15,Religious Figures/Institutions,Vigilante Group,5,Firearms,1,0,0
+198807010008,1988,7,1,7/1/1988,186,Sri Lanka,6.130655,81.1262,1,Assassination,22,Violent Political Party,People's Liberation Front (JVP),9,Melee,1,0,0
+198807010009,1988,7,1,7/1/1988,186,Sri Lanka,5.971251,80.454217,1,Assassination,14,Private Citizens & Property,Unknown,5,Firearms,1,0,0
+198807010010,1988,7,1,7/1/1988,92,India,30.966064,76.523162,6,Hostage Taking (Kidnapping),9,Food or Water Supply,Sikh Extremists,5,Firearms,0,0,1
+198807010011,1988,7,1,7/1/1988,603,United Kingdom,54.597269,-5.930109,2,Armed Assault,3,Police,Irish Republican Army (IRA),5,Firearms,1,0,1
+198807010012,1988,7,1,7/1/1988,159,Peru,-14.063467,-75.729381,2,Armed Assault,19,Transportation,Shining Path (SL),5,Firearms,2,0,1
+198807020001,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020002,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020003,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020004,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020005,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020006,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020007,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198807020008,1988,7,2,7/2/1988,61,El Salvador,,,3,Bombing/Explosion,21,Utilities,Farabundo Marti National Liberation Front (FMLN),6,Explosives/Bombs/Dynamite,0,0,1
+198908010001,1989,8,1,8/1/1989,183,South Africa,-29.75086,30.983353,1,Assassination,3,Police,Unknown,5,Firearms,2,0,0
+198908010002,1989,8,1,8/1/1989,83,Guatemala,14.624422,-90.53288,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+198908010003,1989,8,1,8/1/1989,110,Lebanon,33.562839,35.36887,1,Assassination,17,Terrorists/Non-State Militia,Unknown,5,Firearms,0,2,0
+198908010004,1989,8,1,8/1/1989,110,Lebanon,33.562839,35.36887,1,Assassination,22,Violent Political Party,Unknown,5,Firearms,1,0,0
+198908010005,1989,8,1,8/1/1989,183,South Africa,-26.177929,27.974858,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198908020001,1989,8,2,8/2/1989,186,Sri Lanka,8.885503,80.276733,1,Assassination,2,Government (General),People's Liberation Front (JVP),5,Firearms,1,0,0
+198908020002,1989,8,2,8/2/1989,45,Colombia,4.5981,-74.07603,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+198908020003,1989,8,2,8/2/1989,186,Sri Lanka,6.936786,79.852538,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198908020004,1989,8,2,8/2/1989,186,Sri Lanka,6.91218,79.882883,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+198908020005,1989,8,2,8/2/1989,186,Sri Lanka,6.927079,79.861243,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,6,1
+198908020006,1989,8,2,8/2/1989,185,Spain,42.695391,-1.676069,3,Bombing/Explosion,3,Police,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,2,1
+198908020007,1989,8,2,8/2/1989,185,Spain,43.029037,-1.932957,3,Bombing/Explosion,3,Police,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+198908020008,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020009,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020010,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020011,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020012,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020013,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020014,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+198908020015,1989,8,2,8/2/1989,159,Peru,-11.822224,-75.392952,3,Bombing/Explosion,21,Utilities,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+199009000001,1990,9,0,,159,Peru,-12.046378,-77.042791,6,Hostage Taking (Kidnapping),1,Business,Tupac Amaru Revolutionary Movement (MRTA),5,Firearms,0,0,0
+199009010001,1990,9,1,9/1/1990,209,Turkey,37.914342,40.230405,2,Armed Assault,3,Police,Kurdistan Workers' Party (PKK),5,Firearms,3,0,1
+199009010002,1990,9,1,9/1/1990,209,Turkey,37.914342,40.230405,2,Armed Assault,3,Police,Unknown,5,Firearms,2,0,1
+199009010003,1990,9,1,9/1/1990,603,United Kingdom,54.600305,-7.298402,3,Bombing/Explosion,3,Police,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,0,0,1
+199009010004,1990,9,1,9/1/1990,97,Israel,32.698932,35.304632,7,Facility/Infrastructure Attack,3,Police,Unknown,8,Incendiary,0,0,1
+199009020001,1990,9,2,9/2/1990,183,South Africa,-26.177929,27.974858,3,Bombing/Explosion,10,Journalists & Media,Orde Boerevoik,6,Explosives/Bombs/Dynamite,0,0,1
+199009020002,1990,9,2,9/2/1990,153,Pakistan,32.346032,74.164385,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,6,1
+199009020003,1990,9,2,9/2/1990,153,Pakistan,32.438625,74.116991,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199009020004,1990,9,2,9/2/1990,209,Turkey,38.149649,37.939345,3,Bombing/Explosion,19,Transportation,Kurdistan Workers' Party (PKK),5,Firearms,0,0,1
+199009020005,1990,9,2,9/2/1990,209,Turkey,37.393802,37.146999,2,Armed Assault,4,Military,Kurdistan Workers' Party (PKK),5,Firearms,9,0,1
+199009020006,1990,9,2,9/2/1990,19,Bangladesh,,,2,Armed Assault,14,Private Citizens & Property,Shanti Bahini - Peace Force,5,Firearms,2,3,1
+199009020007,1990,9,2,9/2/1990,183,South Africa,-26.355773,28.208044,1,Assassination,14,Private Citizens & Property,Unknown,5,Firearms,2,0,0
+199009020008,1990,9,2,9/2/1990,183,South Africa,-26.004123,28.21116,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,15,5,0
+199009020009,1990,9,2,9/2/1990,185,Spain,43.256963,-2.923441,3,Bombing/Explosion,3,Police,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,2,2,1
+199009020010,1990,9,2,9/2/1990,110,Lebanon,33.272157,35.203278,3,Bombing/Explosion,22,Violent Political Party,Hezbollah,6,Explosives/Bombs/Dynamite,4,3,1
+199009030001,1990,9,3,9/3/1990,160,Philippines,14.596051,120.978666,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,4,1
+199009030002,1990,9,3,9/3/1990,45,Colombia,3.420628,-76.522119,3,Bombing/Explosion,1,Business,Narco-Terrorists,6,Explosives/Bombs/Dynamite,0,11,1
+199009030003,1990,9,3,9/3/1990,209,Turkey,37.147069,41.123448,2,Armed Assault,4,Military,Kurdistan Workers' Party (PKK),5,Firearms,3,0,1
+199009030004,1990,9,3,9/3/1990,8,Angola,-7.314978,16.002446,2,Armed Assault,14,Private Citizens & Property,National Union for the Total Independence of Angola (UNITA),5,Firearms,35,150,1
+199009030005,1990,9,3,9/3/1990,209,Turkey,41.014061,28.960465,1,Assassination,10,Journalists & Media,Unknown,5,Firearms,1,0,0
+199110010001,1991,10,1,10/1/1991,159,Peru,-12.046378,-77.042791,3,Bombing/Explosion,14,Private Citizens & Property,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+199110010002,1991,10,1,10/1/1991,185,Spain,43.256963,-2.923441,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+199110010004,1991,10,1,10/1/1991,45,Colombia,2.62241,-76.56961,1,Assassination,2,Government (General),Simon Bolivar Guerrilla Coordinating Board (CGSB),5,Firearms,6,0,0
+199110010005,1991,10,1,10/1/1991,159,Peru,-13.049167,-74.138611,1,Assassination,4,Military,Shining Path (SL),5,Firearms,1,5,0
+199110010006,1991,10,1,10/1/1991,183,South Africa,-25.701466,28.332462,1,Assassination,22,Violent Political Party,Unknown,9,Melee,1,0,0
+199110010007,1991,10,1,10/1/1991,183,South Africa,,,1,Assassination,22,Violent Political Party,Unknown,9,Melee,1,0,0
+199110010008,1991,10,1,10/1/1991,43,Chile,-33.469115,-70.641997,9,Unknown,7,Government (Diplomatic),Liberation Youth Coordinating Board,13,Unknown,0,0,1
+199110010010,1991,10,1,10/1/1991,43,Chile,-33.469115,-70.641997,2,Armed Assault,3,Police,Unknown,5,Firearms,1,0,1
+199110010011,1991,10,1,10/1/1991,61,El Salvador,,,2,Armed Assault,4,Military,Farabundo Marti National Liberation Front (FMLN),5,Firearms,0,2,1
+199110010012,1991,10,1,10/1/1991,61,El Salvador,13.99417,-89.55972,2,Armed Assault,4,Military,Farabundo Marti National Liberation Front (FMLN),5,Firearms,0,7,1
+199110010013,1991,10,1,10/1/1991,61,El Salvador,14.169631,-89.102686,2,Armed Assault,4,Military,Farabundo Marti National Liberation Front (FMLN),5,Firearms,0,5,1
+199110010014,1991,10,1,10/1/1991,61,El Salvador,14,-88.1,2,Armed Assault,4,Military,Farabundo Marti National Liberation Front (FMLN),5,Firearms,0,2,1
+199110010015,1991,10,1,10/1/1991,209,Turkey,,,2,Armed Assault,3,Police,Unknown,5,Firearms,2,2,1
+199110010016,1991,10,1,10/1/1991,45,Colombia,,,6,Hostage Taking (Kidnapping),4,Military,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,1,0,0
+199110020001,1991,10,2,10/2/1991,45,Colombia,10.413711,-75.533549,3,Bombing/Explosion,1,Business,National Liberation Army of Colombia (ELN),6,Explosives/Bombs/Dynamite,0,2,1
+199110020002,1991,10,2,10/2/1991,45,Colombia,10.413711,-75.533549,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199110020003,1991,10,2,10/2/1991,159,Peru,-12.068306,-75.210163,3,Bombing/Explosion,8,Educational Institution,Shining Path (SL),6,Explosives/Bombs/Dynamite,0,0,1
+199110020004,1991,10,2,10/2/1991,209,Turkey,41.013517,28.950672,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+199110020005,1991,10,2,10/2/1991,97,Israel,31.766496,35.21172,1,Assassination,18,Tourists,Palestinians,9,Melee,0,1,0
+199110020006,1991,10,2,10/2/1991,97,Israel,31.766496,35.21172,1,Assassination,18,Tourists,Palestinians,9,Melee,1,0,0
+199212000002,1992,12,0,,217,United States,33.88946,-118.159791,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Fourth Reich Skinheads,8,Incendiary,0,0,-9
+199212010001,1992,12,1,12/1/1992,36,Cambodia,13.344637,103.847055,3,Bombing/Explosion,7,Government (Diplomatic),Khmer Rouge,6,Explosives/Bombs/Dynamite,0,5,1
+199212010002,1992,12,1,12/1/1992,92,India,18.438555,79.128841,2,Armed Assault,3,Police,Naxalites,5,Firearms,6,1,1
+199212010003,1992,12,1,12/1/1992,36,Cambodia,,,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),Khmer Rouge,5,Firearms,0,0,0
+199212010004,1992,12,1,12/1/1992,110,Lebanon,33.562839,35.36887,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,2,0,1
+199212010005,1992,12,1,12/1/1992,69,France,42.554742,9.424047,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010006,1992,12,1,12/1/1992,69,France,42.554742,9.424047,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010007,1992,12,1,12/1/1992,69,France,42.554742,9.424047,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010008,1992,12,1,12/1/1992,69,France,42.277097,9.474762,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010009,1992,12,1,12/1/1992,69,France,42.277097,9.474762,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010010,1992,12,1,12/1/1992,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010011,1992,12,1,12/1/1992,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,14,Private Citizens & Property,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,0,27,1
+199212010012,1992,12,1,12/1/1992,209,Turkey,40.039118,43.659959,2,Armed Assault,14,Private Citizens & Property,Kurdistan Workers' Party (PKK),5,Firearms,8,0,1
+199212010013,1992,12,1,12/1/1992,145,Nicaragua,12.136389,-86.251389,3,Bombing/Explosion,1,Business,Punitive Leftist Front,6,Explosives/Bombs/Dynamite,0,0,1
+199212010014,1992,12,1,12/1/1992,45,Colombia,8.69053,-73.66254,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199212010015,1992,12,1,12/1/1992,45,Colombia,6.2675,-75.568611,6,Hostage Taking (Kidnapping),1,Business,National Liberation Army of Colombia (ELN),5,Firearms,0,0,0
+199212010016,1992,12,1,12/1/1992,159,Peru,-9.055833,-76.043611,2,Armed Assault,3,Police,Shining Path (SL),5,Firearms,8,0,1
+199212010017,1992,12,1,12/1/1992,159,Peru,,,2,Armed Assault,3,Police,Shining Path (SL),5,Firearms,6,0,1
+199212010018,1992,12,1,12/1/1992,222,Venezuela,10.502961,-66.917253,2,Armed Assault,3,Police,Unknown,5,Firearms,0,1,1
+199212010019,1992,12,1,12/1/1992,103,Kazakhstan,52.3,76.95,1,Assassination,14,Private Citizens & Property,Chechen Rebels,13,Unknown,2,0,0
+199401000001,1994,1,0,,217,United States,46.58976,-112.021204,7,Facility/Infrastructure Attack,5,Abortion Related,Anti-Abortion extremists,8,Incendiary,0,0,1
+199401010001,1994,1,1,1/1/1994,130,Mexico,17.65,-92.6,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010002,1994,1,1,1/1/1994,130,Mexico,16.774267,-92.131259,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010003,1994,1,1,1/1/1994,130,Mexico,16.3119,-91.98028,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010004,1994,1,1,1/1/1994,130,Mexico,18.34775,-100.654153,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010005,1994,1,1,1/1/1994,130,Mexico,16.90639,-92.09374,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010006,1994,1,1,1/1/1994,130,Mexico,16.738601,-92.633229,2,Armed Assault,14,Private Citizens & Property,Zapatista National Liberation Army,5,Firearms,57,0,1
+199401010007,1994,1,1,1/1/1994,130,Mexico,16.667392,-92.564953,2,Armed Assault,4,Military,Zapatista National Liberation Army,5,Firearms,0,0,1
+199401010008,1994,1,1,1/1/1994,182,Somalia,3.120033,43.650184,2,Armed Assault,7,Government (Diplomatic),Unknown,5,Firearms,1,1,1
+199401010009,1994,1,1,1/1/1994,183,South Africa,-29.858343,31.021827,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,1,1
+199401010010,1994,1,1,1/1/1994,198,Sweden,59.332788,18.064488,1,Assassination,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,1,0
+199401010011,1994,1,1,1/1/1994,205,Thailand,6.190088,101.797961,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199401010012,1994,1,1,1/1/1994,209,Turkey,39.920043,44.043507,2,Armed Assault,3,Police,Kurdistan Workers' Party (PKK),5,Firearms,1,1,1
+199401010013,1994,1,1,1/1/1994,209,Turkey,38.109458,40.567051,1,Assassination,19,Transportation,Kurdistan Workers' Party (PKK),5,Firearms,8,0,0
+199401010014,1994,1,1,1/1/1994,21,Belgium,50.850335,4.351685,2,Armed Assault,14,Private Citizens & Property,Anti-Kurdish Turks,9,Melee,,11,1
+199401010015,1994,1,1,1/1/1994,75,Germany,53.074981,8.807081,8,Unarmed Assault,3,Police,Neo-Nazi extremists,9,Melee,0,22,1
+199401010016,1994,1,1,1/1/1994,75,Germany,53.404954,9.7024,9,Unknown,14,Private Citizens & Property,Neo-Nazi extremists,13,Unknown,0,7,1
+199401010017,1994,1,1,1/1/1994,75,Germany,48.879923,12.570274,9,Unknown,1,Business,Unknown,13,Unknown,0,0,1
+199401010018,1994,1,1,1/1/1994,155,West Bank and Gaza Strip,31.522561,34.453593,8,Unarmed Assault,4,Military,Hamas (Islamic Resistance Movement),9,Melee,,8,1
+199401010019,1994,1,1,1/1/1994,603,United Kingdom,54.597269,-5.930109,7,Facility/Infrastructure Attack,1,Business,Irish Republican Army (IRA),8,Incendiary,0,0,1
+199502010001,1995,2,1,2/1/1995,167,Russia,54.766667,38.883333,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+199502010002,1995,2,1,2/1/1995,209,Turkey,41.013517,28.950672,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+199502010003,1995,2,1,2/1/1995,209,Turkey,41.013517,28.950672,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199502010004,1995,2,1,2/1/1995,209,Turkey,41.013517,28.950672,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199502010005,1995,2,1,2/1/1995,214,Ukraine,44.952117,34.102417,1,Assassination,1,Business,Unknown,5,Firearms,0,2,0
+199502010006,1995,2,1,2/1/1995,6,Algeria,36.7525,3.04197,1,Assassination,10,Journalists & Media,Armed Islamic Group (GIA),5,Firearms,1,0,0
+199502010007,1995,2,1,2/1/1995,34,Burundi,-3.382942,29.367103,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,3,1
+199502010008,1995,2,1,2/1/1995,34,Burundi,-3.382942,29.367103,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,3,7,1
+199502010009,1995,2,1,2/1/1995,45,Colombia,4.085809,-76.197188,1,Assassination,14,Private Citizens & Property,Unknown,13,Unknown,2,0,0
+199502020001,1995,2,2,2/2/1995,34,Burundi,-3.382942,29.367103,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,,,1
+199502020002,1995,2,2,2/2/1995,69,France,41.366667,9.266843,3,Bombing/Explosion,18,Tourists,Corsican National Liberation Front (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+199502020003,1995,2,2,2/2/1995,69,France,41.366667,9.266843,3,Bombing/Explosion,18,Tourists,Corsican National Liberation Front (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+199502020004,1995,2,2,2/2/1995,69,France,41.366667,9.266843,3,Bombing/Explosion,18,Tourists,Corsican National Liberation Front (FLNC),6,Explosives/Bombs/Dynamite,0,0,1
+199502020005,1995,2,2,2/2/1995,130,Mexico,19.432608,-99.133207,1,Assassination,22,Violent Political Party,Unknown,5,Firearms,0,0,0
+199502030001,1995,2,3,2/3/1995,34,Burundi,-3.944733,29.619161,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,3,9,1
+199502030002,1995,2,3,2/3/1995,87,Haiti,18.5391667,-72.335,1,Assassination,4,Military,Unknown,5,Firearms,1,0,0
+199502030003,1995,2,3,2/3/1995,110,Lebanon,33.145556,35.208611,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Hezbollah,6,Explosives/Bombs/Dynamite,1,0,1
+199502030004,1995,2,3,2/3/1995,110,Lebanon,33.209058,35.516274,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Hezbollah,6,Explosives/Bombs/Dynamite,2,5,1
+199502040001,1995,2,4,2/4/1995,160,Philippines,14.596051,120.978666,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,2,16,1
+199502040002,1995,2,4,2/4/1995,4,Afghanistan,34.53306,69.16611,1,Assassination,22,Violent Political Party,Unknown,9,Melee,3,0,0
+199603000001,1996,3,0,,69,France,49.258329,4.031696,2,Armed Assault,14,Private Citizens & Property,Unknown,8,Incendiary,0,0,1
+199603010001,1996,3,1,3/1/1996,155,West Bank and Gaza Strip,31.354961,34.274559,9,Unknown,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),13,Unknown,0,0,1
+199603010002,1996,3,1,3/1/1996,167,Russia,43.62945027,46.20243835,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199603010003,1996,3,1,3/1/1996,183,South Africa,-26.246319,27.853677,2,Armed Assault,3,Police,Unknown,5,Firearms,1,1,0
+199603010004,1996,3,1,3/1/1996,186,Sri Lanka,7.115312,81.852488,1,Assassination,14,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),5,Firearms,1,0,0
+199603010005,1996,3,1,3/1/1996,75,Germany,53.553813,9.991586,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+199603010007,1996,3,1,3/1/1996,83,Guatemala,14.624422,-90.53288,6,Hostage Taking (Kidnapping),8,Educational Institution,Unknown,5,Firearms,0,0,0
+199603020001,1996,3,2,3/2/1996,161,Poland,52.229676,21.012229,2,Armed Assault,10,Journalists & Media,Unknown,8,Incendiary,,,1
+199603020002,1996,3,2,3/2/1996,6,Algeria,36.87617,6.90921,1,Assassination,10,Journalists & Media,Unknown,5,Firearms,1,0,0
+199603020003,1996,3,2,3/2/1996,92,India,24.817011,93.936844,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,3,1
+199603020005,1996,3,2,3/2/1996,92,India,18.658327,84.23601,3,Bombing/Explosion,14,Private Citizens & Property,People's War Group (PWG),6,Explosives/Bombs/Dynamite,1,3,1
+199603030001,1996,3,3,3/3/1996,19,Bangladesh,22.347537,91.812332,3,Bombing/Explosion,3,Police,Opposition Group,6,Explosives/Bombs/Dynamite,0,0,1
+199603030002,1996,3,3,3/3/1996,19,Bangladesh,23.811388,90.412106,1,Assassination,14,Private Citizens & Property,Opposition Group,5,Firearms,1,0,0
+199603030003,1996,3,3,3/3/1996,59,Ecuador,,,9,Unknown,2,Government (General),Social Christian Party (PSC),13,Unknown,0,0,1
+199603030004,1996,3,3,3/3/1996,92,India,9.451517,77.554421,1,Assassination,14,Private Citizens & Property,Thavar Caste,13,Unknown,1,0,0
+199603030006,1996,3,3,3/3/1996,92,India,16.687615,81.491741,3,Bombing/Explosion,3,Police,People's War Group (PWG),6,Explosives/Bombs/Dynamite,1,3,1
+199603030007,1996,3,3,3/3/1996,97,Israel,31.766496,35.21172,3,Bombing/Explosion,19,Transportation,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,20,9,1
+199603040001,1996,3,4,3/4/1996,110,Lebanon,,,3,Bombing/Explosion,4,Military,Hezbollah,6,Explosives/Bombs/Dynamite,4,9,1
+199603040002,1996,3,4,3/4/1996,155,West Bank and Gaza Strip,31.532569,35.099826,1,Assassination,14,Private Citizens & Property,Unknown,9,Melee,0,3,0
+199603040003,1996,3,4,3/4/1996,167,Russia,55.75,37.616667,1,Assassination,1,Business,Unknown,5,Firearms,1,0,0
+199704010001,1997,4,1,4/1/1997,142,Netherlands,52.069858,4.291111,2,Armed Assault,14,Private Citizens & Property,Unknown,8,Incendiary,0,0,1
+199704010002,1997,4,1,4/1/1997,155,West Bank and Gaza Strip,31.356553,34.326901,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+199704010003,1997,4,1,4/1/1997,155,West Bank and Gaza Strip,31.356553,34.326901,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,1,5,1
+199704010004,1997,4,1,4/1/1997,156,Panama,8.750039,-77.616676,9,Unknown,14,Private Citizens & Property,Columbia PM,13,Unknown,1,0,0
+199704010005,1997,4,1,4/1/1997,156,Panama,8.750039,-77.616676,9,Unknown,14,Private Citizens & Property,Columbia PM,13,Unknown,1,0,0
+199704010006,1997,4,1,4/1/1997,183,South Africa,-29.690945,30.671688,1,Assassination,20,Unknown,Unknown,5,Firearms,1,0,0
+199704010007,1997,4,1,4/1/1997,205,Thailand,13.727896,100.524123,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199704010008,1997,4,1,4/1/1997,209,Turkey,37.914554,40.228553,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Kurdistan Workers' Party (PKK),13,Unknown,1,0,0
+199704010009,1997,4,1,4/1/1997,222,Venezuela,6.926948,-68.524715,2,Armed Assault,4,Military,National Liberation Army of Colombia (ELN),5,Firearms,2,0,1
+199704020001,1997,4,2,4/2/1997,123,Mali,16.840216,-2.523311,9,Unknown,14,Private Citizens & Property,Tuareg extremists,13,Unknown,0,2,1
+199704020002,1997,4,2,4/2/1997,130,Mexico,19.432608,-99.133207,2,Armed Assault,14,Private Citizens & Property,Unknown,9,Melee,0,1,0
+199704020003,1997,4,2,4/2/1997,155,West Bank and Gaza Strip,31.951788,35.212499,2,Armed Assault,4,Military,Palestinians,8,Incendiary,0,3,1
+199704020004,1997,4,2,4/2/1997,168,Rwanda,-1.503763,29.632642,9,Unknown,14,Private Citizens & Property,Unknown,13,Unknown,5,0,1
+199704020005,1997,4,2,4/2/1997,183,South Africa,-29.690945,30.671688,1,Assassination,14,Private Citizens & Property,Unknown,5,Firearms,1,0,0
+199704020006,1997,4,2,4/2/1997,217,United States,45.679325,-111.033184,7,Facility/Infrastructure Attack,5,Abortion Related,Anti-Abortion extremists,8,Incendiary,0,0,1
+199704020007,1997,4,2,4/2/1997,36,Cambodia,11.558831,104.917445,1,Assassination,1,Business,Unknown,5,Firearms,1,0,0
+199704030001,1997,4,3,4/3/1997,92,India,34.083658,74.797368,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,6,1
+199704030002,1997,4,3,4/3/1997,153,Pakistan,34.009667,71.579994,2,Armed Assault,22,Violent Political Party,Pakistani People's Party (PPP),5,Firearms,3,5,1
+199704030003,1997,4,3,4/3/1997,168,Rwanda,-1.448369,29.576408,2,Armed Assault,13,Other,Unknown,5,Firearms,5,0,1
+199704030004,1997,4,3,4/3/1997,603,United Kingdom,,,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199805010001,1998,5,1,5/1/1998,117,Macau,22.19328,113.548296,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+199805010002,1998,5,1,5/1/1998,167,Russia,43.07908558,45.04656834,6,Hostage Taking (Kidnapping),2,Government (General),Unknown,5,Firearms,0,0,0
+199805010003,1998,5,1,5/1/1998,96,Ireland,53.039354,-6.092724,2,Armed Assault,1,Business,Irish Republican Army (IRA),5,Firearms,1,0,0
+199805030001,1998,5,3,5/3/1998,78,Greece,37.97918,23.716647,3,Bombing/Explosion,7,Government (Diplomatic),Conscientious Arsonists (CA),8,Incendiary,0,0,1
+199805030002,1998,5,3,5/3/1998,603,United Kingdom,54.597269,-5.930109,3,Bombing/Explosion,3,Police,Irish Republican Army (IRA),6,Explosives/Bombs/Dynamite,0,0,-9
+199805030003,1998,5,3,5/3/1998,235,Yugoslavia,42.794975,20.691387,2,Armed Assault,3,Police,Unknown,5,Firearms,,,1
+199805040001,1998,5,4,5/4/1998,45,Colombia,2.901667,-71.74742,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Unknown,5,Firearms,21,6,1
+199805040002,1998,5,4,5/4/1998,45,Colombia,5.989829,-73.770507,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,11,0,-9
+199805040003,1998,5,4,5/4/1998,217,United States,27.713726,-82.29624,7,Facility/Infrastructure Attack,1,Business,Animal Liberation Front (ALF),8,Incendiary,0,0,1
+199805050001,1998,5,5,5/5/1998,78,Greece,37.97918,23.716647,3,Bombing/Explosion,2,Government (General),Conscientious Arsonists (CA),8,Incendiary,0,0,1
+199805050002,1998,5,5,5/5/1998,92,India,33.639869,74.263416,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,4,0,0
+199805050003,1998,5,5,5/5/1998,92,India,33.14575,75.548049,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,5,0,0
+199805050004,1998,5,5,5/5/1998,6,Algeria,36.266667,2.216667,2,Armed Assault,14,Private Citizens & Property,Unknown,9,Melee,1,0,0
+199805050005,1998,5,5,5/5/1998,6,Algeria,36.266667,2.75,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,1,-9
+199805050006,1998,5,5,5/5/1998,6,Algeria,36.266667,2.216667,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Unknown,5,Firearms,0,0,0
+199805060001,1998,5,6,5/6/1998,185,Spain,42.817988,-1.644184,1,Assassination,2,Government (General),Basque Fatherland and Freedom (ETA),5,Firearms,1,0,0
+199805070001,1998,5,7,5/7/1998,235,Yugoslavia,42.561105,20.079583,2,Armed Assault,4,Military,Unknown,5,Firearms,1,,1
+199805070002,1998,5,7,5/7/1998,6,Algeria,36.508209,2.412089,3,Bombing/Explosion,14,Private Citizens & Property,Algerian Islamic Extremists,6,Explosives/Bombs/Dynamite,0,20,-9
+199805070003,1998,5,7,5/7/1998,6,Algeria,36.88145,3.83344,3,Bombing/Explosion,14,Private Citizens & Property,Armed Islamic Group (GIA),6,Explosives/Bombs/Dynamite,2,7,-9
+199805080001,1998,5,8,5/8/1998,110,Lebanon,33.4925,35.587222,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Hezbollah,6,Explosives/Bombs/Dynamite,2,0,1
+199906000001,1999,6,0,,603,United Kingdom,54.99451,-7.319996,8,Unarmed Assault,14,Private Citizens & Property,Irish Republican Army (IRA),9,Melee,0,2,-9
+199906000002,1999,6,0,,45,Colombia,7.198606,-75.341218,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Unknown,13,Unknown,,,0
+199906010002,1999,6,1,6/1/1999,110,Lebanon,33.541351,35.586215,3,Bombing/Explosion,19,Transportation,Hezbollah,6,Explosives/Bombs/Dynamite,0,0,0
+199906010003,1999,6,1,6/1/1999,110,Lebanon,33.541351,35.586215,3,Bombing/Explosion,19,Transportation,Hezbollah,6,Explosives/Bombs/Dynamite,0,0,0
+199906010004,1999,6,1,6/1/1999,110,Lebanon,33.541351,35.586215,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Unknown,6,Explosives/Bombs/Dynamite,1,,0
+199906010005,1999,6,1,6/1/1999,110,Lebanon,33.541351,35.586215,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Unknown,6,Explosives/Bombs/Dynamite,1,,0
+199906010006,1999,6,1,6/1/1999,93,Indonesia,5.54999,95.316667,2,Armed Assault,4,Military,Unknown,5,Firearms,2,,0
+199906010008,1999,6,1,6/1/1999,93,Indonesia,4.358267,98.175594,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Separatists,5,Firearms,3,,0
+199906010009,1999,6,1,6/1/1999,186,Sri Lanka,8.964041,80.787941,2,Armed Assault,14,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),5,Firearms,11,6,0
+199906020001,1999,6,2,6/2/1999,93,Indonesia,5.380556,95.954722,2,Armed Assault,4,Military,Unknown,5,Firearms,2,,0
+199906020002,1999,6,2,6/2/1999,209,Turkey,40.981874,29.05763,3,Bombing/Explosion,1,Business,Muslim extremists,6,Explosives/Bombs/Dynamite,0,2,1
+199906020003,1999,6,2,6/2/1999,45,Colombia,7.060051,-73.853115,2,Armed Assault,14,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,11,,0
+199906020004,1999,6,2,6/2/1999,95,Iraq,,,2,Armed Assault,14,Private Citizens & Property,Kurdistan Workers' Party (PKK),5,Firearms,11,5,0
+199906020005,1999,6,2,6/2/1999,93,Indonesia,2.64413,97.790807,2,Armed Assault,2,Government (General),Unknown,5,Firearms,1,1,-9
+199906030001,1999,6,3,6/3/1999,6,Algeria,36.586235,5.441231,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,3,,0
+199906030002,1999,6,3,6/3/1999,6,Algeria,36.66774,3.59115,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,2,,0
+199906030003,1999,6,3,6/3/1999,6,Algeria,36.166333,1.333551,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,2,,0
+199906030004,1999,6,3,6/3/1999,92,India,28.658188,77.227403,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,28,1
+199906030005,1999,6,3,6/3/1999,159,Peru,-13.163874,-74.223564,2,Armed Assault,14,Private Citizens & Property,Shining Path (SL),5,Firearms,6,3,0
+199906030006,1999,6,3,6/3/1999,159,Peru,-12.206111,-75.840556,9,Unknown,14,Private Citizens & Property,Shining Path (SL),13,Unknown,3,0,0
+200007000001,2000,7,0,,603,United Kingdom,54.863117,-6.278343,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Protestant extremists,8,Incendiary,0,0,0
+200007010001,2000,7,1,7/1/2000,45,Colombia,4.597909,-74.076086,3,Bombing/Explosion,3,Police,Revolutionary Armed Forces of Colombia (FARC),6,Explosives/Bombs/Dynamite,1,30,1
+200007010002,2000,7,1,7/1/2000,167,Russia,43.5098,46.3339,3,Bombing/Explosion,3,Police,Chechen Rebels,6,Explosives/Bombs/Dynamite,3,0,1
+200007010003,2000,7,1,7/1/2000,45,Colombia,3.420628,-76.522119,7,Facility/Infrastructure Attack,3,Police,Revolutionary Armed Forces of Colombia (FARC),13,Unknown,0,0,-9
+200007010004,2000,7,1,7/1/2000,177,Sierra Leone,9.047023,-12.070713,2,Armed Assault,7,Government (Diplomatic),Unknown,5,Firearms,,,0
+200007010006,2000,6,17,6/17/2000,177,Sierra Leone,9.10075,-10.957888,2,Armed Assault,14,Private Citizens & Property,Civil Defense Force (CDF),6,Explosives/Bombs/Dynamite,21,,1
+200007020001,2000,7,2,7/2/2000,167,Russia,43.3,45.866667,3,Bombing/Explosion,4,Military,Chechen Rebels,6,Explosives/Bombs/Dynamite,50,81,1
+200007020002,2000,7,2,7/2/2000,167,Russia,43.35,46.1,3,Bombing/Explosion,4,Military,Chechen Rebels,6,Explosives/Bombs/Dynamite,6,0,-9
+200007020003,2000,7,2,7/2/2000,167,Russia,43.35,46.1,3,Bombing/Explosion,4,Military,Chechen Rebels,6,Explosives/Bombs/Dynamite,9,0,-9
+200007020004,2000,7,2,7/2/2000,167,Russia,43.133333,45.55,3,Bombing/Explosion,4,Military,Chechen Rebels,6,Explosives/Bombs/Dynamite,2,0,-9
+200007020005,2000,7,2,7/2/2000,167,Russia,43.2572,46.243,3,Bombing/Explosion,4,Military,Chechen Rebels,6,Explosives/Bombs/Dynamite,4,20,-9
+200007020006,2000,7,2,7/2/2000,160,Philippines,6.089314,121.104845,6,Hostage Taking (Kidnapping),10,Journalists & Media,Abu Sayyaf Group (ASG),5,Firearms,0,0,0
+200007020007,2000,7,2,7/2/2000,93,Indonesia,5.183798,97.141575,3,Bombing/Explosion,3,Police,Free Aceh Movement (GAM),6,Explosives/Bombs/Dynamite,4,5,-9
+200007020009,2000,7,2,7/2/2000,217,United States,39.01737,-85.760763,7,Facility/Infrastructure Attack,1,Business,Animal Liberation Front (ALF),8,Incendiary,0,0,1
+200007030001,2000,7,3,7/3/2000,183,South Africa,-34.040083,18.677805,2,Armed Assault,19,Transportation,Unknown,5,Firearms,1,11,-9
+200007030002,2000,7,3,7/3/2000,101,Japan,35.73845,139.326932,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+200007030003,2000,7,2,7/2/2000,92,India,24.318984,91.997804,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,National Liberation Front of Tripura (NLFT),5,Firearms,0,0,0
+200007040001,2000,7,4,7/4/2000,93,Indonesia,-6.208821,106.846046,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200007040002,2000,7,4,7/4/2000,160,Philippines,13.173328,121.277093,2,Armed Assault,3,Police,New People's Army (NPA),5,Firearms,10,5,0
+200007040003,2000,7,4,7/4/2000,6,Algeria,,,2,Armed Assault,14,Private Citizens & Property,Unknown,9,Melee,9,0,0
+200008000001,2000,8,0,,92,India,34.083658,74.797368,3,Bombing/Explosion,14,Private Citizens & Property,Hizbul Mujahideen (HM),6,Explosives/Bombs/Dynamite,0,4,-9
+200008000002,2000,8,0,,6,Algeria,36.726217,3.570141,9,Unknown,14,Private Citizens & Property,Algerian Islamic Extremists,13,Unknown,1,,-9
+200008010001,2000,8,1,8/1/2000,93,Indonesia,-6.208821,106.846046,1,Assassination,7,Government (Diplomatic),Jemaah Islamiya (JI),6,Explosives/Bombs/Dynamite,2,21,1
+200008010002,2000,8,1,8/1/2000,92,India,34.016075,75.31498,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,35,94,1
+200008010003,2000,8,1,8/1/2000,167,Russia,43.31492777,46.22838402,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+200008020001,2000,8,2,8/2/2000,89,Hong Kong,22.281867,114.161326,2,Armed Assault,2,Government (General),Unknown,8,Incendiary,0,16,1
+200008020002,2000,8,2,8/2/2000,167,Russia,43.133333,45.55,3,Bombing/Explosion,2,Government (General),Chechen Rebels,6,Explosives/Bombs/Dynamite,1,0,1
+200008020003,2000,8,2,8/2/2000,53,Cyprus,35.16678,33.367632,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200008020004,2000,8,2,8/2/2000,1003,Kosovo,42.51784,21.098647,3,Bombing/Explosion,14,Private Citizens & Property,Albanian extremists,6,Explosives/Bombs/Dynamite,3,1,1
+200008020006,2000,8,2,8/2/2000,53,Cyprus,35.039731,33.981716,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200008030001,2000,8,3,8/3/2000,167,Russia,43.00618358,46.44211483,3,Bombing/Explosion,2,Government (General),Chechen Rebels,6,Explosives/Bombs/Dynamite,1,2,1
+200008030002,2000,8,3,8/3/2000,167,Russia,43.884514,41.730394,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,1,1
+200008030004,2000,8,4,8/4/2000,139,Namibia,-18.096673,21.62684,2,Armed Assault,14,Private Citizens & Property,National Union for the Total Independence of Angola (UNITA),5,Firearms,1,0,0
+200008030005,2000,8,3,8/3/2000,153,Pakistan,30.182125,67.000517,3,Bombing/Explosion,14,Private Citizens & Property,Tribal Group,6,Explosives/Bombs/Dynamite,2,4,1
+200008040001,2000,8,4,8/4/2000,6,Algeria,35.60176,6.08408,3,Bombing/Explosion,16,Telecommunication,Algerian Islamic Extremists,6,Explosives/Bombs/Dynamite,0,0,1
+200008050001,2000,8,5,8/5/2000,4,Afghanistan,34.642787,63.112354,2,Armed Assault,7,Government (Diplomatic),Unknown,5,Firearms,12,0,0
+200008060001,2000,8,6,8/6/2000,167,Russia,43.25,46.583333,3,Bombing/Explosion,14,Private Citizens & Property,Chechen Rebels,6,Explosives/Bombs/Dynamite,2,3,1
+200008070001,2000,8,7,8/7/2000,8,Angola,-9.110916,13.687426,2,Armed Assault,14,Private Citizens & Property,National Union for the Total Independence of Angola (UNITA),5,Firearms,14,,1
+200008070002,2000,8,7,8/7/2000,185,Spain,43.297258,-2.256848,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,1,0,1
+200008070003,2000,8,7,8/7/2000,185,Spain,43.256963,-2.923441,3,Bombing/Explosion,20,Unknown,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,4,0,1
+200109010001,2001,9,1,9/1/2001,185,Spain,43.320812,-1.984447,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+200109010002,2001,9,1,9/1/2001,185,Spain,43.320812,-1.984447,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+200109010003,2001,9,1,9/1/2001,92,India,34.083658,74.797368,3,Bombing/Explosion,19,Transportation,Jaish-e-Mohammad (JeM),6,Explosives/Bombs/Dynamite,0,0,1
+200109010004,2001,9,1,9/1/2001,185,Spain,43.07563,-2.223667,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+200109010005,2001,9,1,9/1/2001,167,Russia,43.316667,45.683333,2,Armed Assault,3,Police,Chechen Rebels,5,Firearms,0,1,1
+200109010006,2001,9,1,9/1/2001,167,Russia,43.124254,46.158573,2,Armed Assault,3,Police,Chechen Rebels,5,Firearms,1,0,1
+200109010007,2001,9,1,9/1/2001,167,Russia,43.28345995,45.84304991,2,Armed Assault,3,Police,Chechen Rebels,5,Firearms,0,1,1
+200109010008,2001,9,1,9/1/2001,8,Angola,-11.200644,13.841627,2,Armed Assault,14,Private Citizens & Property,National Union for the Total Independence of Angola (UNITA),5,Firearms,32,52,1
+200109010009,2001,9,1,9/1/2001,118,Macedonia,42.000273,21.432541,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+200109010010,2001,9,1,9/1/2001,1003,Kosovo,42.467778,21.036389,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+200109010011,2001,9,1,9/1/2001,1003,Kosovo,42.061418,20.653185,3,Bombing/Explosion,10,Journalists & Media,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200109010012,2001,9,1,9/1/2001,603,United Kingdom,54.597269,-5.930109,8,Unarmed Assault,14,Private Citizens & Property,Ulster Freedom Fighters (UFF),9,Melee,0,2,0
+200109010013,2001,9,1,9/1/2001,213,Uganda,3.378381,31.782228,3,Bombing/Explosion,12,NGO,Lord's Resistance Army (LRA),6,Explosives/Bombs/Dynamite,6,2,1
+200109010014,2001,9,1,9/1/2001,130,Mexico,19.432608,-99.133207,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200109010015,2001,9,1,9/1/2001,45,Colombia,7.06749,-73.16942,1,Assassination,14,Private Citizens & Property,Unknown,5,Firearms,1,0,0
+200109020001,2001,9,2,9/2/2001,92,India,33.14575,75.548049,3,Bombing/Explosion,3,Police,Lashkar-e-Taiba (LeT),6,Explosives/Bombs/Dynamite,1,10,1
+200109020002,2001,9,2,9/2/2001,4,Afghanistan,36.734277,69.535339,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,4,14,1
+200109020003,2001,9,2,9/2/2001,160,Philippines,6.863394,124.443833,2,Armed Assault,2,Government (General),Moro Islamic Liberation Front (MILF),5,Firearms,0,4,1
+200109020004,2001,9,2,9/2/2001,6,Algeria,,,2,Armed Assault,14,Private Citizens & Property,Salafist Group for Preaching and Fighting (GSPC),9,Melee,7,2,1
+200109020005,2001,9,2,9/2/2001,45,Colombia,4.330762,-73.862957,6,Hostage Taking (Kidnapping),3,Police,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,0,0,0
+200109100001,2001,9,10,9/10/2001,4,Afghanistan,37.345278,69.535,3,Bombing/Explosion,2,Government (General),Taliban,6,Explosives/Bombs/Dynamite,3,1,0
+200109100002,2001,9,10,9/10/2001,34,Burundi,-3.599444,29.71,2,Armed Assault,4,Military,National Council for Defense of Democracy (NCDD),5,Firearms,10,0,0
+200109100003,2001,9,10,9/10/2001,98,Italy,43.768732,11.256901,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+200109100004,2001,9,10,9/10/2001,153,Pakistan,24.893379,67.028061,2,Armed Assault,16,Telecommunication,Unknown,5,Firearms,1,0,0
+200109100005,2001,9,10,9/10/2001,92,India,32.548637,74.847789,3,Bombing/Explosion,4,Military,Hizbul Mujahideen (HM),6,Explosives/Bombs/Dynamite,1,6,0
+200109100006,2001,9,10,9/10/2001,209,Turkey,41.037004,28.989088,3,Bombing/Explosion,3,Police,Devrimici Halk Kurtulus Cephesi (DHKP/C),6,Explosives/Bombs/Dynamite,3,16,1
+200109100007,2001,9,10,9/10/2001,6,Algeria,36.716365,4.049834,2,Armed Assault,3,Police,Unknown,5,Firearms,0,1,0
+200109110001,2001,9,11,9/11/2001,34,Burundi,-3.633892,29.709872,2,Armed Assault,19,Transportation,Unknown,5,Firearms,1,,0
+200109110002,2001,9,11,9/11/2001,229,Democratic Republic of the Congo,-1.049115,29.031531,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,4,0,0
+200109110003,2001,9,11,9/11/2001,97,Israel,32.385553,35.036145,2,Armed Assault,3,Police,Unknown,5,Firearms,2,1,0
+200109110004,2001,9,11,9/11/2001,217,United States,40.712784,-74.005941,4,Hijacking,14,Private Citizens & Property,Al-Qaida,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1383,7366,1
+200109110005,2001,9,11,9/11/2001,217,United States,40.712784,-74.005941,4,Hijacking,14,Private Citizens & Property,Al-Qaida,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1382,7365,1
+200109110006,2001,9,11,9/11/2001,217,United States,38.880777,-77.108273,4,Hijacking,2,Government (General),Al-Qaida,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",189,106,1
+200109110007,2001,9,11,9/11/2001,217,United States,40.018464,-78.907197,4,Hijacking,14,Private Citizens & Property,Al-Qaida,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",44,5,1
+200109110008,2001,9,11,9/11/2001,12,Armenia,40.183333,44.516667,1,Assassination,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,1,0,-9
+200109120001,2001,9,12,9/12/2001,69,France,48.936616,2.324789,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+200109120002,2001,12,9,12/9/2001,155,West Bank and Gaza Strip,31.532569,35.099826,2,Armed Assault,14,Private Citizens & Property,Palestinians,5,Firearms,0,1,1
+200109120003,2001,12,9,12/9/2001,97,Israel,32.793921,34.990615,3,Bombing/Explosion,19,Transportation,Palestinian Extremists,6,Explosives/Bombs/Dynamite,1,28,-9
+200109130001,2001,9,13,9/13/2001,160,Philippines,7.48722,124.29917,2,Armed Assault,4,Military,Moro Islamic Liberation Front (MILF),5,Firearms,3,6,0
+200109130002,2001,9,13,9/13/2001,98,Italy,38.11564,13.361406,2,Armed Assault,3,Police,Unknown,8,Incendiary,0,,1
+200210000001,2002,10,0,,69,France,42.016854,9.403982,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,1
+200210000002,2002,10,0,,69,France,42.016854,9.403982,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,1
+200210000003,2002,10,0,,69,France,42.016854,9.403982,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,1
+200210000004,2002,10,0,,69,France,42.016854,9.403982,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,1
+200210000005,2002,10,0,,69,France,42.104248,9.512429,3,Bombing/Explosion,3,Police,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000006,2002,10,0,,69,France,42.554742,9.424047,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000007,2002,10,0,,69,France,42.554742,9.424047,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000008,2002,10,0,,69,France,41.999291,9.402963,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,0
+200210000009,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000010,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,1,Business,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000011,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,14,Private Citizens & Property,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000012,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,14,Private Citizens & Property,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000013,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,14,Private Citizens & Property,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210000014,2002,10,0,,69,France,41.918891,8.737554,3,Bombing/Explosion,14,Private Citizens & Property,Separatists,6,Explosives/Bombs/Dynamite,0,0,-9
+200210010001,2002,10,1,10/1/2002,92,India,32.455637,75.272766,2,Armed Assault,19,Transportation,Unknown,5,Firearms,4,,1
+200210010002,2002,10,1,10/1/2002,6,Algeria,36.195611,2.513615,2,Armed Assault,14,Private Citizens & Property,Muslim Militants,5,Firearms,13,1,-9
+200210010003,2002,10,1,10/1/2002,6,Algeria,36.194946,2.507604,2,Armed Assault,14,Private Citizens & Property,Armed Islamic Group (GIA),5,Firearms,13,0,-9
+200210010004,2002,10,1,10/1/2002,6,Algeria,,,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Armed Islamic Group (GIA),5,Firearms,,1,0
+200210020001,2002,10,2,10/2/2002,160,Philippines,6.911412,122.077945,3,Bombing/Explosion,1,Business,Abu Sayyaf Group (ASG),6,Explosives/Bombs/Dynamite,3,25,1
+200210020002,2002,10,2,10/2/2002,92,India,33.778175,76.576171,1,Assassination,2,Government (General),Unknown,5,Firearms,3,0,0
+200311010001,2003,11,1,11/1/2003,95,Iraq,33.35004,43.783488,9,Unknown,4,Military,Unknown,13,Unknown,4,0,0
+200311010002,2003,11,1,11/1/2003,4,Afghanistan,33.6,69.216944,3,Bombing/Explosion,4,Military,Taliban,6,Explosives/Bombs/Dynamite,0,0,1
+200311010003,2003,11,1,11/1/2003,4,Afghanistan,,,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Al-Qaida,5,Firearms,0,0,0
+200311020001,2003,11,2,11/2/2003,34,Burundi,-3.382942,29.367103,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Party for the Liberation of the Hutu People (PALIPEHUTU),5,Firearms,4,0,0
+200311020002,2003,11,2,11/2/2003,93,Indonesia,-3.763848,137.086333,2,Armed Assault,14,Private Citizens & Property,Free Papua Movement (OPM-Organisasi Papua Merdeka),5,Firearms,1,3,0
+200311020003,2003,11,2,11/2/2003,141,Nepal,27.04279,84.906278,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,10,12,1
+200311030001,2003,11,3,11/3/2003,155,West Bank and Gaza Strip,32.177105,35.056033,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+200311030002,2003,11,3,11/3/2003,95,Iraq,33.773349,45.14945,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,1,15,1
+200311030003,2003,11,3,11/3/2003,95,Iraq,36.34,43.13,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,1,0
+200311030004,2003,11,3,11/3/2003,92,India,33.871517,74.89955,1,Assassination,2,Government (General),Unknown,5,Firearms,1,0,0
+200311030005,2003,11,3,11/3/2003,92,India,34.052374,74.805383,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,1,1
+200311040001,2003,11,4,11/4/2003,98,Italy,41.89052,12.494249,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,1,0
+200311050001,2003,11,5,11/5/2003,92,India,24.251281,94.301304,3,Bombing/Explosion,4,Military,United National Liberation Front (UNLF),6,Explosives/Bombs/Dynamite,2,3,1
+200311050002,2003,11,5,11/5/2003,34,Burundi,-3.080156,29.397914,9,Unknown,4,Military,Party for the Liberation of the Hutu People (PALIPEHUTU),13,Unknown,4,0,1
+200311050003,2003,11,5,11/5/2003,4,Afghanistan,34.533056,69.166111,3,Bombing/Explosion,12,NGO,Taliban,6,Explosives/Bombs/Dynamite,0,0,1
+200311050004,2003,11,5,11/5/2003,229,Democratic Republic of the Congo,1.566527,30.249824,2,Armed Assault,7,Government (Diplomatic),Union of Congolese Patriots (UPC),5,Firearms,0,1,0
+200311050005,2003,11,5,11/5/2003,92,India,24.817011,93.936844,6,Hostage Taking (Kidnapping),2,Government (General),Kuki National Front (KNF),5,Firearms,1,0,0
+200311060001,2003,11,6,11/6/2003,78,Greece,37.97918,23.716647,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,-9
+200311060002,2003,11,6,11/6/2003,78,Greece,37.97918,23.716647,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,-9
+200311060003,2003,11,6,11/6/2003,78,Greece,37.97918,23.716647,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,-9
+200412000001,2004,12,0,,95,Iraq,,,6,Hostage Taking (Kidnapping),1,Business,Mujahedeen Army,13,Unknown,0,1,0
+200412010001,2004,12,1,12/1/2004,95,Iraq,32.98499,44.35676,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,7,-9
+200412020001,2004,12,2,12/2/2004,195,Sudan,,,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,15,,1
+200412020002,2004,12,2,12/2/2004,95,Iraq,33.3,44.4,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,,,1
+200412020003,2004,12,2,12/2/2004,141,Nepal,27.718332,85.325337,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200412030001,2004,12,3,12/3/2004,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,2,1
+200412030002,2004,12,3,12/3/2004,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,1,1
+200412030003,2004,12,3,12/3/2004,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,1,1
+200412030004,2004,12,3,12/3/2004,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,1,1
+200412030005,2004,12,3,12/3/2004,185,Spain,40.416691,-3.700345,3,Bombing/Explosion,1,Business,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,1,1
+200412030006,2004,12,3,12/3/2004,92,India,34.286763,74.462401,2,Armed Assault,3,Police,Al-Mansoorian,6,Explosives/Bombs/Dynamite,7,10,1
+200412030007,2004,12,3,12/3/2004,95,Iraq,33.3,44.4,7,Facility/Infrastructure Attack,3,Police,Al-Qaida in Iraq,5,Firearms,13,,1
+200412040001,2004,12,4,12/4/2004,155,West Bank and Gaza Strip,31.286053,34.248053,3,Bombing/Explosion,4,Military,Palestinian Islamic Jihad (PIJ),6,Explosives/Bombs/Dynamite,,,-9
+200412040002,2004,12,4,12/4/2004,155,West Bank and Gaza Strip,32.226019,35.260947,3,Bombing/Explosion,4,Military,Popular Front for the Liberation of Palestine (PFLP),6,Explosives/Bombs/Dynamite,0,0,0
+200412050001,2004,12,5,12/5/2004,92,India,33.871517,74.89955,3,Bombing/Explosion,4,Military,Hizbul Mujahideen (HM),6,Explosives/Bombs/Dynamite,12,,1
+200412050002,2004,12,5,12/5/2004,95,Iraq,34.604447,43.685789,2,Armed Assault,1,Business,Unknown,5,Firearms,17,13,1
+200412050003,2004,12,5,12/5/2004,141,Nepal,27.330907,87.062426,6,Hostage Taking (Kidnapping),2,Government (General),Unknown,13,Unknown,0,0,0
+200412060002,2004,12,6,12/6/2004,4,Afghanistan,32.629444,62.489444,2,Armed Assault,3,Police,Taliban,5,Firearms,2,1,0
+200412060003,2004,12,6,12/6/2004,185,Spain,42.599876,-5.571752,3,Bombing/Explosion,20,Unknown,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+200412060004,2004,12,6,12/6/2004,185,Spain,43.388999,-4.109126,3,Bombing/Explosion,20,Unknown,Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,2,1
+200501010001,2005,1,1,1/1/2005,95,Iraq,33.308144,44.39391,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,5,,1
+200501010002,2005,1,1,1/1/2005,159,Peru,-13.6575,-73.383333,2,Armed Assault,3,Police,Etnocacerista Movement,5,Firearms,4,,-9
+200501010003,2005,1,1,1/1/2005,45,Colombia,6.46052,-71.72989,9,Unknown,14,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),13,Unknown,17,0,0
+200501010004,2005,1,1,1/1/2005,28,Bosnia-Herzegovina,44.96583,16.69917,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,1,1
+200501010005,2005,1,1,1/1/2005,92,India,33.733336,75.148983,1,Assassination,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,17,1
+200501010006,2005,1,1,1/1/2005,141,Nepal,27.021345,87.470224,3,Bombing/Explosion,4,Military,Maoists,6,Explosives/Bombs/Dynamite,12,10,0
+200501010007,2005,1,1,1/1/2005,217,United States,44.46867,-71.185077,7,Facility/Infrastructure Attack,1,Business,Unknown,8,Incendiary,0,0,1
+200501010019,2005,1,1,1/1/2005,205,Thailand,6.491822,101.3885,7,Facility/Infrastructure Attack,8,Educational Institution,Unknown,8,Incendiary,0,0,1
+200501010020,2005,1,1,1/1/2005,97,Israel,31.584056,34.503468,3,Bombing/Explosion,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,0,0,0
+200501010021,2005,1,1,1/1/2005,97,Israel,31.48436,34.451057,3,Bombing/Explosion,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,0,0,0
+200501010022,2005,1,1,1/1/2005,97,Israel,31.357931,34.274454,3,Bombing/Explosion,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,0,0,0
+200501020001,2005,1,2,1/2/2005,167,Russia,44.716667,37.766667,2,Armed Assault,4,Military,Unknown,5,Firearms,0,1,0
+200501020002,2005,1,2,1/2/2005,95,Iraq,35.29915,44.327279,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,1,,1
+200501020003,2005,1,2,1/2/2005,6,Algeria,34.85,5.733333,2,Armed Assault,4,Military,Salafist Group for Preaching and Fighting (GSPC),5,Firearms,18,19,1
+200501020004,2005,1,2,1/2/2005,95,Iraq,34.604447,43.685789,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200501020005,2005,1,2,1/2/2005,95,Iraq,34.604447,43.685789,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200501020006,2005,1,2,1/2/2005,95,Iraq,34.016389,44.145278,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,28,6,1
+200501020007,2005,1,2,1/2/2005,141,Nepal,,,2,Armed Assault,3,Police,Maoists,13,Unknown,5,6,-9
+200501020008,2005,1,2,1/2/2005,97,Israel,31.376445,34.369413,3,Bombing/Explosion,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,0,0,-9
+200501020009,2005,1,2,1/2/2005,97,Israel,31.343994,34.277683,3,Bombing/Explosion,14,Private Citizens & Property,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,0,0,-9
+200602010001,2006,2,1,2/1/2006,95,Iraq,33.3,44.4,6,Hostage Taking (Kidnapping),10,Journalists & Media,Unknown,5,Firearms,,,0
+200602010003,2006,2,1,2/1/2006,4,Afghanistan,33.509963,70.121765,3,Bombing/Explosion,4,Military,Taliban,6,Explosives/Bombs/Dynamite,5,4,0
+200602010004,2006,2,1,2/1/2006,95,Iraq,33.3,44.4,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,8,50,1
+200602010005,2006,2,1,2/1/2006,138,Myanmar,16.257766,97.725203,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+200602010007,2006,2,1,2/1/2006,95,Iraq,33.75,44.633333,3,Bombing/Explosion,20,Unknown,Unknown,6,Explosives/Bombs/Dynamite,1,3,0
+200602010008,2006,2,1,2/1/2006,95,Iraq,32.655756,44.556669,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200602010009,2006,2,1,2/1/2006,95,Iraq,33.3,44.4,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,2,-9
+200602010010,2006,2,1,2/1/2006,95,Iraq,33.3,44.4,2,Armed Assault,14,Private Citizens & Property,Unknown,5,Firearms,1,0,0
+200602010011,2006,2,1,2/1/2006,155,West Bank and Gaza Strip,31.350321,34.299744,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200602010012,2006,2,1,2/1/2006,19,Bangladesh,22.808782,89.246719,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,2,0
+200602010013,2006,2,1,2/1/2006,141,Nepal,27.974023,84.266069,3,Bombing/Explosion,1,Business,Maoists,6,Explosives/Bombs/Dynamite,0,0,1
+200602010014,2006,2,1,2/1/2006,141,Nepal,27.988744,82.301773,3,Bombing/Explosion,14,Private Citizens & Property,Maoists,6,Explosives/Bombs/Dynamite,0,0,1
+200602010015,2006,2,1,2/1/2006,141,Nepal,27.904355,85.153122,3,Bombing/Explosion,14,Private Citizens & Property,Maoists,6,Explosives/Bombs/Dynamite,0,0,1
+200602010016,2006,2,0,,141,Nepal,29.558111,80.426642,3,Bombing/Explosion,2,Government (General),Maoists,6,Explosives/Bombs/Dynamite,0,0,1
+200602020001,2006,2,2,2/2/2006,167,Russia,43.047456,44.665806,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,2,16,-9
+200602020002,2006,2,2,2/2/2006,167,Russia,64.55,40.533333,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,2,-9
+200602020003,2006,2,2,2/2/2006,95,Iraq,35.46883,44.39098,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,-9
+200602020004,2006,2,2,2/2/2006,95,Iraq,33.3,44.4,6,Hostage Taking (Kidnapping),2,Government (General),Unknown,5,Firearms,,,0
+200602020005,2006,2,2,2/2/2006,95,Iraq,35.46883,44.39098,1,Assassination,3,Police,Unknown,5,Firearms,0,1,0
+200602020006,2006,2,2,2/2/2006,185,Spain,43.247179,-2.890139,3,Bombing/Explosion,2,Government (General),Basque Fatherland and Freedom (ETA),6,Explosives/Bombs/Dynamite,0,0,1
+200703010001,2007,3,1,3/1/2007,95,Iraq,33.75,44.633333,6,Hostage Taking (Kidnapping),3,Police,Islamic State of Iraq (ISI),5,Firearms,14,0,0
+200703010002,2007,3,1,3/1/2007,95,Iraq,33.35004,43.783488,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,10,7,-9
+200703010003,2007,3,1,3/1/2007,95,Iraq,33.3,44.4,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,,1
+200703010004,2007,3,1,3/1/2007,65,Ethiopia,11.79557,41.014531,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),Afar Revolutionary Democratic Unity Front,6,Explosives/Bombs/Dynamite,0,0,1
+200703010005,2007,3,1,3/1/2007,95,Iraq,33.35004,43.783488,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,7,6,1
+200703020001,2007,3,2,3/2/2007,95,Iraq,33.389934,44.460652,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,10,17,1
+200703020002,2007,3,2,3/2/2007,95,Iraq,33.3,44.4,6,Hostage Taking (Kidnapping),2,Government (General),Islamic State of Iraq (ISI),13,Unknown,14,0,-9
+200703020003,2007,3,2,3/2/2007,153,Pakistan,30.197843,71.467629,1,Assassination,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,2,1,1
+200703030001,2007,3,3,3/3/2007,95,Iraq,33.431899,43.311566,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,13,20,-9
+200703030002,2007,3,3,3/3/2007,6,Algeria,36.069432,1.989646,3,Bombing/Explosion,1,Business,Al-Qaida in the Islamic Maghreb (AQIM),6,Explosives/Bombs/Dynamite,4,5,1
+200703040001,2007,3,4,3/4/2007,4,Afghanistan,34.250512,70.808164,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,11,34,-9
+200703040002,2007,3,4,3/4/2007,6,Algeria,36.35,6.6,3,Bombing/Explosion,20,Unknown,Algerian Islamic Extremists,6,Explosives/Bombs/Dynamite,0,0,0
+200703040003,2007,3,4,3/4/2007,6,Algeria,,,3,Bombing/Explosion,3,Police,Al-Qaida in the Islamic Maghreb (AQIM),6,Explosives/Bombs/Dynamite,9,1,1
+200703040004,2007,3,4,3/4/2007,186,Sri Lanka,7.921328,81.52467,1,Assassination,14,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),5,Firearms,2,0,0
+200703050001,2007,3,5,3/5/2007,95,Iraq,33.3,44.4,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,31,65,1
+200703050002,2007,3,5,3/5/2007,4,Afghanistan,31.583056,64.369167,6,Hostage Taking (Kidnapping),10,Journalists & Media,Taliban,5,Firearms,1,0,0
+200703050003,2007,3,5,3/5/2007,195,Sudan,11.278134,25.144449,2,Armed Assault,7,Government (Diplomatic),Sudan Liberation Movement,5,Firearms,3,1,0
+200703060001,2007,3,6,3/6/2007,95,Iraq,33.251563,44.391939,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,7,14,-9
+200703060002,2007,3,6,3/6/2007,95,Iraq,32.483494,44.433269,3,Bombing/Explosion,14,Private Citizens & Property,Islamic State of Iraq (ISI),6,Explosives/Bombs/Dynamite,92,200,1
+200703060003,2007,3,6,3/6/2007,182,Somalia,2.03742,45.337971,2,Armed Assault,4,Military,Unknown,6,Explosives/Bombs/Dynamite,3,6,1
+200804010001,2008,4,1,4/1/2008,4,Afghanistan,31.622827,62.869366,3,Bombing/Explosion,3,Police,Taliban,6,Explosives/Bombs/Dynamite,3,5,-9
+200804010002,2008,4,1,4/1/2008,153,Pakistan,33.694214,71.496152,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200804010003,2008,4,1,4/1/2008,92,India,24.749905,84.370896,2,Armed Assault,14,Private Citizens & Property,Communist Party of India - Maoist (CPI-Maoist),5,Firearms,0,0,1
+200804010004,2008,4,1,4/1/2008,92,India,23.075278,85.278889,2,Armed Assault,14,Private Citizens & Property,Communist Party of India - Maoist (CPI-Maoist),9,Melee,4,0,0
+200804010005,2008,4,1,4/1/2008,182,Somalia,2.03742,45.337971,1,Assassination,2,Government (General),Unknown,5,Firearms,3,0,-9
+200804010006,2008,4,1,4/1/2008,182,Somalia,1.122156,42.657165,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),Unknown,5,Firearms,0,1,0
+200804010010,2008,4,1,4/1/2008,95,Iraq,35.324817,43.766813,1,Assassination,17,Terrorists/Non-State Militia,Unknown,6,Explosives/Bombs/Dynamite,2,0,0
+200804010012,2008,4,1,4/1/2008,95,Iraq,33.251522,44.507829,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,0,2,1
+200804010017,2008,4,1,4/1/2008,45,Colombia,4.21557,-73.81502,3,Bombing/Explosion,21,Utilities,Revolutionary Armed Forces of Colombia (FARC),6,Explosives/Bombs/Dynamite,0,0,0
+200804010022,2008,4,1,4/1/2008,4,Afghanistan,32.715785,69.281793,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,6,-9
+200804010032,2008,4,1,4/1/2008,141,Nepal,26.582145,86.464267,3,Bombing/Explosion,2,Government (General),Janatantrik Terai Mukti Morcha- Goit (JTMM-G),6,Explosives/Bombs/Dynamite,0,0,1
+200804010034,2008,4,1,4/1/2008,153,Pakistan,34.77436,72.356922,2,Armed Assault,14,Private Citizens & Property,Tehrik-i-Taliban Pakistan (TTP),5,Firearms,2,7,-9
+200804010038,2008,4,1,4/1/2008,205,Thailand,5.993038,101.966181,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200804010039,2008,4,1,4/1/2008,186,Sri Lanka,8.980118,79.912462,2,Armed Assault,2,Government (General),Liberation Tigers of Tamil Eelam (LTTE),5,Firearms,0,0,1
+200804010040,2008,4,1,4/1/2008,186,Sri Lanka,8.980118,79.912462,3,Bombing/Explosion,15,Religious Figures/Institutions,Liberation Tigers of Tamil Eelam (LTTE),6,Explosives/Bombs/Dynamite,0,0,1
+200804010042,2008,4,1,4/1/2008,95,Iraq,35.46883,44.39098,1,Assassination,17,Terrorists/Non-State Militia,Unknown,6,Explosives/Bombs/Dynamite,2,0,-9
+200804020001,2008,4,2,4/2/2008,153,Pakistan,35.079406,72.428758,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,4,1
+200804020003,2008,4,2,4/2/2008,95,Iraq,33.3,44.4,3,Bombing/Explosion,10,Journalists & Media,Unknown,6,Explosives/Bombs/Dynamite,3,13,-9
+200804020004,2008,4,2,4/2/2008,95,Iraq,34.604447,43.685789,2,Armed Assault,14,Private Citizens & Property,Al-Qaida in Iraq,13,Unknown,4,0,0
+200804020005,2008,4,2,4/2/2008,153,Pakistan,30.182125,67.000517,2,Armed Assault,3,Police,Baloch Liberation Army (BLA),5,Firearms,2,0,0
+200905010001,2009,5,1,5/1/2009,95,Iraq,36.34,43.13,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,6,6,-9
+200905010002,2009,5,1,5/1/2009,95,Iraq,30.5,47.816667,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,5,-9
+200905010010,2009,5,1,5/1/2009,153,Pakistan,28.885631,64.405301,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,2,1
+200905010011,2009,5,1,5/1/2009,153,Pakistan,29.021807,66.587648,3,Bombing/Explosion,9,Food or Water Supply,Unknown,6,Explosives/Bombs/Dynamite,2,3,-9
+200905010017,2009,5,1,5/1/2009,4,Afghanistan,33.356667,70.078333,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200905010018,2009,5,1,5/1/2009,4,Afghanistan,33.364593,69.793643,3,Bombing/Explosion,8,Educational Institution,Taliban,6,Explosives/Bombs/Dynamite,0,0,1
+200905010019,2009,5,1,5/1/2009,45,Colombia,10.77259,-73.00454,2,Armed Assault,14,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),8,Incendiary,0,1,-9
+200905010020,2009,5,1,5/1/2009,95,Iraq,35.46883,44.39098,3,Bombing/Explosion,15,Religious Figures/Institutions,Islamic State of Iraq (ISI),6,Explosives/Bombs/Dynamite,0,2,0
+200905010021,2009,5,1,5/1/2009,142,Netherlands,52.211157,5.969923,1,Assassination,2,Government (General),Unknown,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",7,12,1
+200905020004,2009,5,2,5/2/2009,153,Pakistan,34.396497,72.615832,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Tehrik-i-Taliban Pakistan (TTP),13,Unknown,0,0,-9
+200905020006,2009,5,2,5/2/2009,153,Pakistan,34.937429,72.469042,6,Hostage Taking (Kidnapping),2,Government (General),Tehrik-i-Taliban Pakistan (TTP),13,Unknown,0,0,-9
+200905020007,2009,5,2,5/2/2009,92,India,26.415798,92.843682,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200905020008,2009,5,2,5/2/2009,167,Russia,55.75,37.616667,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,2,-9
+200905020009,2009,5,2,5/2/2009,28,Bosnia-Herzegovina,43.85,18.3833333,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200905020012,2009,5,2,5/2/2009,95,Iraq,36.34,43.13,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,4,-9
+200905020013,2009,5,2,5/2/2009,4,Afghanistan,34.856331,69.649118,1,Assassination,2,Government (General),Taliban,5,Firearms,1,0,-9
+200905020016,2009,5,2,5/2/2009,153,Pakistan,30.182125,67.000517,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,19,1
+200905020017,2009,5,2,5/2/2009,153,Pakistan,29.021807,66.587648,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200905020019,2009,5,2,5/2/2009,153,Pakistan,33.694214,71.496152,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+200905020020,2009,5,2,5/2/2009,92,India,18.9,81.35,3,Bombing/Explosion,3,Police,Communist Party of India - Maoist (CPI-Maoist),6,Explosives/Bombs/Dynamite,0,2,1
+201006010002,2010,6,1,6/1/2010,167,Russia,43.484122,43.627361,2,Armed Assault,3,Police,Unknown,5,Firearms,0,0,1
+201006010006,2010,6,1,6/1/2010,45,Colombia,7.029222,-71.427329,2,Armed Assault,14,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),5,Firearms,11,0,-9
+201006010007,2010,6,1,6/1/2010,45,Colombia,6.45929,-71.736282,2,Armed Assault,14,Private Citizens & Property,National Liberation Army of Colombia (ELN),5,Firearms,0,0,-9
+201006010008,2010,6,1,6/1/2010,45,Colombia,1.931356,-76.214635,6,Hostage Taking (Kidnapping),1,Business,Revolutionary Armed Forces of Colombia (FARC),13,Unknown,0,0,0
+201006010010,2010,6,1,6/1/2010,4,Afghanistan,33.566561,69.878354,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),Unknown,13,Unknown,0,0,0
+201006010011,2010,6,1,6/1/2010,153,Pakistan,25.033647,66.881224,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,6,1
+201006010012,2010,6,1,6/1/2010,153,Pakistan,30.182125,67.000517,3,Bombing/Explosion,8,Educational Institution,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201006010013,2010,6,1,6/1/2010,153,Pakistan,34.574856,71.276081,3,Bombing/Explosion,8,Educational Institution,Tehrik-i-Taliban Pakistan (TTP),6,Explosives/Bombs/Dynamite,0,0,1
+201006010014,2010,6,1,6/1/2010,153,Pakistan,34.574856,71.276081,3,Bombing/Explosion,1,Business,Tehrik-i-Taliban Pakistan (TTP),6,Explosives/Bombs/Dynamite,0,0,1
+201006010015,2010,6,1,6/1/2010,92,India,25.2727,94.0265,7,Facility/Infrastructure Attack,2,Government (General),Unknown,8,Incendiary,0,0,1
+201006010018,2010,6,1,6/1/2010,205,Thailand,6.686475,101.139088,3,Bombing/Explosion,1,Business,Muslim Separatists,6,Explosives/Bombs/Dynamite,0,0,1
+201006010019,2010,6,1,6/1/2010,205,Thailand,6.491822,101.3885,7,Facility/Infrastructure Attack,21,Utilities,Unknown,8,Incendiary,0,0,1
+201006010020,2010,6,1,6/1/2010,205,Thailand,6.491822,101.3885,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Unknown,8,Incendiary,0,0,1
+201006010021,2010,6,1,6/1/2010,205,Thailand,6.491822,101.3885,7,Facility/Infrastructure Attack,16,Telecommunication,Muslim Separatists,8,Incendiary,0,0,1
+201006010022,2010,6,1,6/1/2010,205,Thailand,6.486667,101.150411,7,Facility/Infrastructure Attack,21,Utilities,Muslim Separatists,8,Incendiary,0,0,1
+201006010025,2010,6,1,6/1/2010,205,Thailand,6.410951,101.273494,7,Facility/Infrastructure Attack,14,Private Citizens & Property,Unknown,8,Incendiary,0,0,1
+201006020006,2010,6,2,6/2/2010,92,India,21.812876,80.183829,7,Facility/Infrastructure Attack,1,Business,Communist Party of India - Maoist (CPI-Maoist),8,Incendiary,0,0,1
+201006020007,2010,6,2,6/2/2010,141,Nepal,26.894353,86.62416,3,Bombing/Explosion,2,Government (General),Samyukta Jatiya Mukti Morcha (SJMM),6,Explosives/Bombs/Dynamite,0,0,1
+201006020010,2010,6,2,6/2/2010,4,Afghanistan,34.533056,69.166111,3,Bombing/Explosion,2,Government (General),Taliban,6,Explosives/Bombs/Dynamite,0,0,0
+201006020011,2010,6,2,6/2/2010,147,Nigeria,4.92315,6.26093,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201107010002,2011,7,1,7/1/2011,167,Russia,43.511111,44.6,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201107010003,2011,7,1,7/1/2011,95,Iraq,33.037879,40.284233,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,Unknown,9,Melee,3,0,-9
+201107010004,2011,7,1,7/1/2011,4,Afghanistan,35.029855,71.354232,6,Hostage Taking (Kidnapping),2,Government (General),Taliban,13,Unknown,0,0,-9
+201107010005,2011,7,1,7/1/2011,4,Afghanistan,34.001737,69.210237,2,Armed Assault,1,Business,Unknown,5,Firearms,3,0,-9
+201107010006,2011,7,1,7/1/2011,92,India,24.251281,94.301304,2,Armed Assault,2,Government (General),Kuki Liberation Army (KLA),5,Firearms,0,0,1
+201107010007,2011,7,1,7/1/2011,153,Pakistan,30.445122,69.094176,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Tehrik-i-Taliban Pakistan (TTP),5,Firearms,0,0,0
+201107010008,2011,7,1,7/1/2011,153,Pakistan,33.695975,70.336069,6,Hostage Taking (Kidnapping),2,Government (General),Unknown,5,Firearms,1,0,-9
+201107010010,2011,7,0,,153,Pakistan,24.893379,67.028061,9,Unknown,22,Violent Political Party,Unknown,13,Unknown,1,0,-9
+201107010011,2011,7,1,7/1/2011,205,Thailand,6.549038,101.643027,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201107010012,2011,7,1,7/1/2011,160,Philippines,6.861141,124.444122,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+201107020001,2011,7,2,7/2/2011,153,Pakistan,24.893379,67.028061,2,Armed Assault,2,Government (General),Unknown,5,Firearms,7,0,0
+201107020003,2011,7,2,7/2/2011,92,India,25.380634,86.465382,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Communist Party of India - Maoist (CPI-Maoist),13,Unknown,6,0,-9
+201107020004,2011,7,2,7/2/2011,4,Afghanistan,31.816667,64.55,2,Armed Assault,2,Government (General),Unknown,5,Firearms,1,0,-9
+201107020005,2011,7,2,7/2/2011,4,Afghanistan,32.930002,66.689122,2,Armed Assault,1,Business,Unknown,5,Firearms,17,0,-9
+201107020006,2011,7,2,7/2/2011,4,Afghanistan,31.908611,67.646111,3,Bombing/Explosion,14,Private Citizens & Property,Taliban,6,Explosives/Bombs/Dynamite,13,0,1
+201107020007,2011,7,2,7/2/2011,228,Yemen,13.129737,45.380083,6,Hostage Taking (Kidnapping),4,Military,Al-Qaida in the Arabian Peninsula (AQAP),13,Unknown,0,0,-9
+201107020008,2011,7,2,7/2/2011,95,Iraq,33.037879,40.284233,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,Unknown,13,Unknown,0,0,-9
+201107020009,2011,7,2,7/2/2011,95,Iraq,33.431899,43.311566,2,Armed Assault,3,Police,Unknown,5,Firearms,1,0,-9
+201107020011,2011,7,2,7/2/2011,95,Iraq,35.46883,44.39098,2,Armed Assault,1,Business,Unknown,5,Firearms,0,0,-9
+201107020012,2011,7,2,7/2/2011,95,Iraq,35.798212,43.293114,2,Armed Assault,3,Police,Unknown,5,Firearms,1,1,-9
+201208010001,2012,8,1,8/1/2012,182,Somalia,2.024264,45.329901,3,Bombing/Explosion,2,Government (General),Al-Shabaab,6,Explosives/Bombs/Dynamite,2,0,0
+201208010002,2012,8,1,8/1/2012,95,Iraq,33.35,43.783333,2,Armed Assault,3,Police,Unknown,5,Firearms,1,4,0
+201208010003,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,1,Business,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,1,0
+201208010004,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,14,Private Citizens & Property,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,0,0
+201208010005,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,1,Business,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,0,0
+201208010006,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,19,Transportation,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,0,0
+201208010007,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,1,Business,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,0,0
+201208010008,2012,8,1,8/1/2012,92,India,18.52043,73.856744,3,Bombing/Explosion,20,Unknown,Indian Mujahideen,6,Explosives/Bombs/Dynamite,0,0,0
+201208010009,2012,8,1,8/1/2012,160,Philippines,6.047225,121.009043,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201208010010,2012,8,1,8/1/2012,4,Afghanistan,32.850699,68.460587,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,3,0,0
+201208010011,2012,8,1,8/1/2012,92,India,34.025014,74.809009,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201208010012,2012,8,1,8/1/2012,167,Russia,42.978368,47.491066,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201208010013,2012,8,1,8/1/2012,153,Pakistan,31.601849,74.320621,3,Bombing/Explosion,14,Private Citizens & Property,United Baloch Army (UBA),6,Explosives/Bombs/Dynamite,0,2,-9
+201208010014,2012,8,1,8/1/2012,153,Pakistan,31.601849,74.320621,3,Bombing/Explosion,14,Private Citizens & Property,United Baloch Army (UBA),6,Explosives/Bombs/Dynamite,2,21,-9
+201208010015,2012,8,1,8/1/2012,153,Pakistan,30.190189,71.458023,3,Bombing/Explosion,19,Transportation,Tehrik-i-Taliban Pakistan (TTP),6,Explosives/Bombs/Dynamite,1,0,0
+201208010016,2012,8,1,8/1/2012,113,Libya,32.116667,20.066667,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201208010017,2012,8,1,8/1/2012,155,West Bank and Gaza Strip,31.522561,34.453593,3,Bombing/Explosion,20,Unknown,Hamas (Islamic Resistance Movement),6,Explosives/Bombs/Dynamite,1,2,0
+201208010018,2012,8,1,8/1/2012,228,Yemen,13.223056,45.305556,2,Armed Assault,3,Police,Al-Qaida in the Arabian Peninsula (AQAP),6,Explosives/Bombs/Dynamite,4,1,0
+201208010019,2012,8,1,8/1/2012,153,Pakistan,29.252489,68.896492,3,Bombing/Explosion,20,Unknown,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201208010020,2012,8,1,8/1/2012,147,Nigeria,10.2824,11.17479,2,Armed Assault,3,Police,Boko Haram,6,Explosives/Bombs/Dynamite,,,-9
+201309010001,2013,9,1,9/1/2013,228,Yemen,13.634341,46.056321,2,Armed Assault,3,Police,Al-Qaida in the Arabian Peninsula (AQAP),5,Firearms,0,3,0
+201309010002,2013,9,1,9/1/2013,153,Pakistan,32.546259,70.716847,2,Armed Assault,1,Business,Unknown,5,Firearms,3,,0
+201309010003,2013,9,1,9/1/2013,92,India,34.287361,74.462658,3,Bombing/Explosion,3,Police,Separatists,6,Explosives/Bombs/Dynamite,0,2,0
+201309010004,2013,9,1,9/1/2013,228,Yemen,15.460565,45.481312,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201309010005,2013,9,1,9/1/2013,60,Egypt,31.132093,33.803276,2,Armed Assault,14,Private Citizens & Property,Muslim extremists,5,Firearms,1,0,0
+201309010006,2013,9,1,9/1/2013,153,Pakistan,32.96083,69.91806,3,Bombing/Explosion,4,Military,Mujahideen Ansar,6,Explosives/Bombs/Dynamite,9,20,1
+201309010007,2013,9,1,9/1/2013,95,Iraq,34.884439,44.631823,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,3,13,1
+201309010008,2013,9,1,9/1/2013,95,Iraq,33.85,44.233333,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,3,0,0
+201309010009,2013,9,1,9/1/2013,95,Iraq,36.230981,42.219601,3,Bombing/Explosion,3,Police,Unknown,6,Explosives/Bombs/Dynamite,0,2,0
+201309010010,2013,9,1,9/1/2013,95,Iraq,33.773349,45.14945,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,3,-9
+201309010011,2013,9,1,9/1/2013,95,Iraq,33.773349,45.14945,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,2,-9
+201309010012,2013,9,1,9/1/2013,95,Iraq,33.773349,45.14945,3,Bombing/Explosion,4,Military,Unknown,6,Explosives/Bombs/Dynamite,0,2,-9
+201309010014,2013,9,1,9/1/2013,92,India,25.41847,91.743622,2,Armed Assault,3,Police,Unknown,8,Incendiary,0,0,0
+201309010015,2013,9,1,9/1/2013,92,India,24.654662,93.447772,6,Hostage Taking (Kidnapping),2,Government (General),Zeliangrong United Front,5,Firearms,0,1,0
+201309010017,2013,9,1,9/1/2013,147,Nigeria,9.716667,8.85,2,Armed Assault,14,Private Citizens & Property,Fulani extremists,5,Firearms,6,0,0
+201309010018,2013,9,1,9/1/2013,45,Colombia,1.801428,-77.168663,6,Hostage Taking (Kidnapping),4,Military,Unknown,13,Unknown,,,0
+201309010021,2013,9,1,9/1/2013,153,Pakistan,29.629405,67.404015,3,Bombing/Explosion,20,Unknown,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201309010022,2013,9,1,9/1/2013,153,Pakistan,28.010607,67.848616,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201309010023,2013,9,1,9/1/2013,182,Somalia,2.038353,45.342073,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+201309010024,2013,9,1,9/1/2013,160,Philippines,7.054,124.672,2,Armed Assault,4,Military,Bangsamoro Islamic Freedom Movement (BIFM),5,Firearms,3,0,0
+201410010001,2014,10,1,10/1/2014,182,Somalia,1.717466,44.768614,2,Armed Assault,4,Military,Al-Shabaab,5,Firearms,1,0,0
+201410010002,2014,10,1,10/1/2014,182,Somalia,4.321015,45.299386,9,Unknown,4,Military,Al-Shabaab,13,Unknown,,,-9
+201410010003,2014,10,1,10/1/2014,182,Somalia,-0.357783,42.547072,3,Bombing/Explosion,4,Military,Al-Shabaab,6,Explosives/Bombs/Dynamite,1,,1
+201410010004,2014,10,1,10/1/2014,182,Somalia,1.629798,44.51958,9,Unknown,4,Military,Al-Shabaab,13,Unknown,1,,-9
+201410010006,2014,10,1,10/1/2014,182,Somalia,2.78,45.5008,3,Bombing/Explosion,4,Military,Al-Shabaab,6,Explosives/Bombs/Dynamite,0,4,-9
+201410010007,2014,10,2,10/2/2014,113,Libya,32.116049,20.071231,3,Bombing/Explosion,17,Terrorists/Non-State Militia,Shura Council of Benghazi Revolutionaries,6,Explosives/Bombs/Dynamite,9,52,1
+201410010008,2014,10,1,10/1/2014,113,Libya,32.116049,20.071231,3,Bombing/Explosion,20,Unknown,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201410010009,2014,10,1,10/1/2014,113,Libya,32.116049,20.071231,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201410010010,2014,10,2,10/2/2014,113,Libya,32.766667,22.25,2,Armed Assault,4,Military,Muslim extremists,5,Firearms,4,0,0
+201410010011,2014,10,1,10/1/2014,41,Central African Republic,5.765146,20.675497,2,Armed Assault,7,Government (Diplomatic),Fulani extremists,5,Firearms,14,,1
+201410010015,2014,10,1,10/1/2014,160,Philippines,7.808513,126.094304,7,Facility/Infrastructure Attack,1,Business,New People's Army (NPA),5,Firearms,0,0,1
+201410010016,2014,10,1,10/1/2014,214,Ukraine,48.042922,37.781815,3,Bombing/Explosion,8,Educational Institution,Donetsk People's Republic,6,Explosives/Bombs/Dynamite,4,8,1
+201410010017,2014,10,1,10/1/2014,214,Ukraine,47.958918,37.7712,3,Bombing/Explosion,19,Transportation,Donetsk People's Republic,6,Explosives/Bombs/Dynamite,6,1,1
+201410010018,2014,10,1,10/1/2014,92,India,24.797724,93.935738,3,Bombing/Explosion,15,Religious Figures/Institutions,Unknown,6,Explosives/Bombs/Dynamite,1,6,0
+201410010019,2014,10,1,10/1/2014,205,Thailand,6.521008,101.277537,3,Bombing/Explosion,4,Military,Runda Kumpulan Kecil (RKK),6,Explosives/Bombs/Dynamite,0,6,-9
+201410010020,2014,10,1,10/1/2014,153,Pakistan,24.916672,67.083368,3,Bombing/Explosion,3,Police,Baloch Republican Army (BRA),6,Explosives/Bombs/Dynamite,0,2,1
+201410010021,2014,10,1,10/1/2014,153,Pakistan,24.916667,67.083333,3,Bombing/Explosion,3,Police,Baloch Republican Army (BRA),6,Explosives/Bombs/Dynamite,0,1,1
+201410010022,2014,10,1,10/1/2014,153,Pakistan,24.937746,66.962919,3,Bombing/Explosion,20,Unknown,Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201410010023,2014,10,1,10/1/2014,4,Afghanistan,34.531926,69.166417,3,Bombing/Explosion,4,Military,Taliban,6,Explosives/Bombs/Dynamite,9,15,1
+201410010024,2014,10,1,10/1/2014,4,Afghanistan,34.660214,69.240073,3,Bombing/Explosion,4,Military,Taliban,6,Explosives/Bombs/Dynamite,1,3,1
+201511010001,2015,11,1,11/1/2015,160,Philippines,5.966542,125.285565,2,Armed Assault,4,Military,New People's Army (NPA),5,Firearms,0,0,0
+201511010002,2015,11,1,11/1/2015,160,Philippines,7.27733,125.489147,2,Armed Assault,4,Military,New People's Army (NPA),5,Firearms,0,0,0
+201511010003,2015,11,1,11/1/2015,160,Philippines,12.233896,123.282912,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,0
+201511010004,2015,11,1,11/1/2015,95,Iraq,33.346642,44.401617,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,6,-9
+201511010005,2015,11,1,11/1/2015,95,Iraq,33.404713,44.347089,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,2,7,-9
+201511010006,2015,11,1,11/1/2015,95,Iraq,36.356648,43.164,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),13,Unknown,,,1
+201511010007,2015,11,1,11/1/2015,95,Iraq,36.356648,43.164,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),13,Unknown,,,1
+201511010010,2015,11,1,11/1/2015,182,Somalia,2.031406,45.309401,3,Bombing/Explosion,1,Business,Al-Shabaab,6,Explosives/Bombs/Dynamite,21,24,1
+201511010011,2015,11,1,11/1/2015,95,Iraq,33.323726,44.422185,3,Bombing/Explosion,19,Transportation,Unknown,6,Explosives/Bombs/Dynamite,2,3,1
+201511010012,2015,11,1,11/1/2015,95,Iraq,33.367394,43.960388,3,Bombing/Explosion,4,Military,Islamic State of Iraq and the Levant (ISIL),6,Explosives/Bombs/Dynamite,1,0,0
+201511010014,2015,11,1,11/1/2015,153,Pakistan,29.798417,66.84691,3,Bombing/Explosion,19,Transportation,United Baloch Army (UBA),6,Explosives/Bombs/Dynamite,4,10,1
+201511010015,2015,11,1,11/1/2015,153,Pakistan,34.880026,71.524991,1,Assassination,14,Private Citizens & Property,Unknown,5,Firearms,1,0,0
+201511010017,2015,11,1,11/1/2015,214,Ukraine,48.906614,38.443361,3,Bombing/Explosion,2,Government (General),Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201511010019,2015,11,1,11/1/2015,155,West Bank and Gaza Strip,31.564738,35.128303,8,Unarmed Assault,3,Police,Palestinian Extremists,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0,3,0
+201511010020,2015,11,1,11/1/2015,42,Chad,,,3,Bombing/Explosion,4,Military,Boko Haram,6,Explosives/Bombs/Dynamite,3,11,-9
+201511010021,2015,11,1,11/1/2015,42,Chad,,,9,Unknown,4,Military,Boko Haram,13,Unknown,13,0,0
+201511010023,2015,11,1,11/1/2015,4,Afghanistan,36.211586,65.363551,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,Taliban,13,Unknown,,,0
+201511010025,2015,11,1,11/1/2015,34,Burundi,-3.372193,29.368588,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,21,1
+201511010026,2015,11,1,11/1/2015,209,Turkey,37.069644,41.213997,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,0,2,1
+201511010027,2015,11,1,11/1/2015,229,Democratic Republic of the Congo,-0.226111,29.213611,6,Hostage Taking (Kidnapping),12,NGO,Democratic Front for the Liberation of Rwanda (FDLR),5,Firearms,0,0,0
+201612010003,2016,12,1,12/1/2016,95,Iraq,36.34,43.13,2,Armed Assault,14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),5,Firearms,15,0,0
+201612010005,2016,12,1,12/1/2016,182,Somalia,2.78,45.5008,1,Assassination,2,Government (General),Al-Shabaab,5,Firearms,3,3,1
+201612010006,2016,12,1,12/1/2016,182,Somalia,3.330407,42.218978,2,Armed Assault,1,Business,Al-Shabaab,5,Firearms,1,3,1
+201612010007,2016,12,1,12/1/2016,92,India,24.799616,93.922892,3,Bombing/Explosion,14,Private Citizens & Property,People's Revolutionary Party of Kangleipak (PREPAK),6,Explosives/Bombs/Dynamite,0,0,0
+201612010008,2016,12,1,12/1/2016,182,Somalia,4.655952,47.856315,7,Facility/Infrastructure Attack,1,Business,Al-Shabaab,13,Unknown,0,0,1
+201612010009,2016,12,1,12/1/2016,4,Afghanistan,32.307927,65.80755,2,Armed Assault,3,Police,Taliban,5,Firearms,5,0,0
+201612010010,2016,12,1,12/1/2016,92,India,18.438444,79.868696,3,Bombing/Explosion,14,Private Citizens & Property,Maoists,6,Explosives/Bombs/Dynamite,0,1,0
+201612010015,2016,12,1,12/1/2016,113,Libya,32.116667,20.066667,3,Bombing/Explosion,1,Business,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010016,2016,12,1,12/1/2016,95,Iraq,33.388889,44.458333,3,Bombing/Explosion,14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),6,Explosives/Bombs/Dynamite,0,,1
+201612010017,2016,12,1,12/1/2016,95,Iraq,33.339088,44.40985,3,Bombing/Explosion,14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),6,Explosives/Bombs/Dynamite,0,,1
+201612010019,2016,12,1,12/1/2016,95,Iraq,33.423277,44.401651,3,Bombing/Explosion,14,Private Citizens & Property,Islamic State of Iraq and the Levant (ISIL),6,Explosives/Bombs/Dynamite,1,7,0
+201612010021,2016,12,1,12/1/2016,95,Iraq,33.291944,44.065556,3,Bombing/Explosion,14,Private Citizens & Property,Unknown,6,Explosives/Bombs/Dynamite,1,4,-9
+201612010023,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+201612010024,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,1,0,1
+201612010025,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010026,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010027,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010028,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010029,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
+201612010030,2016,12,1,12/1/2016,95,Iraq,33.460743,43.47411,3,Bombing/Explosion,21,Utilities,Unknown,6,Explosives/Bombs/Dynamite,0,0,1
