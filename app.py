@@ -1,20 +1,9 @@
-# import necessary libraries
-import json
-from flask import (
-    Flask,
-    render_template,
-    jsonify,
-    request)
-
-
-#################################################
-# Flask Setup
-#################################################
+from flask import Flask, render_template
 app = Flask(__name__)
 
-@app.route("/")
-def home():
-    return "Welcome!"
+@app.route('/<string:page_name>/')
+def static_page(page_name):
+    return render_template('%s.html' % page_name)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
