@@ -81,6 +81,11 @@ incidents_df = incidents_df[pd.notnull(incidents_df['ilatitude'])]
 #print(incidents_df.head())
   
 # I consider this clean enough. 
+# trim off columns that appear to be difficult to maintain data integrity on. 
+
+org_inc_df = incidents_df[["incident_id","iyear", "icountry_txt", "ilatitude", "ilongitude", "attacktype_txt", 
+                          "targtype_txt", "gname", "weaptype_txt", "nkill"]]
+
 
  # Import SQL Alchemy
 from sqlalchemy import create_engine # , func
@@ -100,25 +105,25 @@ from sqlalchemy_utils import database_exists, create_database, drop_database
 # Create the Incident class
 class Incidents(Base):
     __tablename__ = 'incidents_tbl'
-    incident_id = Column(Integer, primary_key=True)
+    incident_id = Column(Integer, primary_key=True, autoincrement=True)
     iyear = Column(Integer)             # incident year Column(String(255))
-    imonth = Column(Integer)            # incident month  Column(Float)
-    iday = Column(Integer)              # incident day (String(255))
-    idate = Column(Date)                # Incident Date
-    icountry_id = Column(Integer)
+#    imonth = Column(Integer)            # incident month  Column(Float)
+#    iday = Column(Integer)              # incident day (String(255))
+#    idate = Column(Date)                # Incident Date
+#    icountry_id = Column(Integer)
     icountry_txt = Column(String(50))
     ilatitude = Column(Float)
     ilongitude = Column(Float)
-    attacktype_id  = Column (Integer)
+#    attacktype_id  = Column (Integer)
     attacktype_txt = Column (String(50))
-    targtype_id  = Column (Integer)
+#    targtype_id  = Column (Integer)
     targtype_txt = Column (String(50))
     gname = Column (String(100))
-    weaptype_id = Column(Integer)
+#    weaptype_id = Column(Integer)
     weaptype_txt = Column(String(100))
     nkill = Column(Integer)
-    nwound = Column(Integer)
-    property_flg = Column (Integer)
+#    nwound = Column(Integer)
+#    property_flg = Column (Integer)
     
 # Create a connection to a SQLite database
 engine = create_engine('sqlite:///gtdb.sqlite')
@@ -132,7 +137,6 @@ conn = engine.connect()
 # Create the incidets_tbl table within the database
 Base.metadata.create_all(conn)
 
-
 # To push the objects made and query the server we use a Session object
 from sqlalchemy.orm import Session
 session = Session(bind=engine)
@@ -141,26 +145,26 @@ session = Session(bind=engine)
 ## For each row of the dataframe, create an instance of the Incidents class
 
 
-for idx in incidents_df.index[1:]:
-    incident_row = Incidents(incident_id=incidents_df.loc[idx,'incident_id'],
-                             iyear=incidents_df.loc[idx,'iyear'],
-                             imonth= incidents_df.loc[idx,'imonth'],
-                             iday= incidents_df.loc[idx,'iday'],
-                             idate= incidents_df.loc[idx,'idate'],
-                             icountry_id= incidents_df.loc[idx,'icountry_id'],
-                             icountry_txt= incidents_df.loc[idx,'icountry_txt'],
-                             ilatitude= incidents_df.loc[idx,'ilatitude'],
-                             ilongitude= incidents_df.loc[idx,'ilongitude'],
-                             attacktype_id= incidents_df.loc[idx,'attacktype_id'],
-                             attacktype_txt= incidents_df.loc[idx,'attacktype_txt'],
-                             targtype_id= incidents_df.loc[idx,'targtype_id'],
-                             targtype_txt= incidents_df.loc[idx,'targtype_txt'],
-                             gname= incidents_df.loc[idx,'gname'],
-                             weaptype_id= incidents_df.loc[idx,'weaptype_id'],
-                             weaptype_txt= incidents_df.loc[idx,'weaptype_txt'],
-                             nkill= incidents_df.loc[idx,'nkill'],
-                             nwound= incidents_df.loc[idx,'nwound'],
-                             property_flg= incidents_df.loc[idx,'property_flg']
+for idx in org_inc_df.index[1:]:
+    incident_row = Incidents(#incident_id=org_inc_df.loc[idx,'incident_id'],
+                             iyear=org_inc_df.loc[idx,'iyear'],
+#                             imonth= org_inc_df.loc[idx,'imonth'],
+#                             iday= org_inc_df.loc[idx,'iday'],
+#                             idate= org_inc_df.loc[idx,'idate'],
+#                             icountry_id= org_inc_df.loc[idx,'icountry_id'],
+                             icountry_txt= org_inc_df.loc[idx,'icountry_txt'],
+                             ilatitude= org_inc_df.loc[idx,'ilatitude'],
+                             ilongitude= org_inc_df.loc[idx,'ilongitude'],
+#                             attacktype_id= org_inc_df.loc[idx,'attacktype_id'],
+                             attacktype_txt= org_inc_df.loc[idx,'attacktype_txt'],
+#                             targtype_id= org_inc_df.loc[idx,'targtype_id'],
+                             targtype_txt= org_inc_df.loc[idx,'targtype_txt'],
+                             gname= org_inc_df.loc[idx,'gname'],
+#                             weaptype_id= org_inc_df.loc[idx,'weaptype_id'],
+                             weaptype_txt= org_inc_df.loc[idx,'weaptype_txt'],
+                             nkill= org_inc_df.loc[idx,'nkill'],
+#                             nwound= org_inc_df.loc[idx,'nwound'],
+#                             property_flg= org_inc_df.loc[idx,'property_flg']
                              )
     
 # Add these objects to the session
@@ -168,7 +172,7 @@ for idx in incidents_df.index[1:]:
 # Commit the objects to the database
     session.commit()
 conn.close()
-
+print ('OK')
 # 2nd approach:  use pandas .to_sql() 
 #incidents_df.to_sql(name='incidents_tbl.', 
 #                    con=engine, if_exists = 'fail', index=False)

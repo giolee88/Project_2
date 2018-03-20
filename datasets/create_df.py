@@ -69,8 +69,11 @@ incidents_df = incidents_df[pd.notnull(incidents_df['ilatitude'])]
 #print(incidents_df.count())
 
 print (incidents_df.dtypes)
-print(incidents_df.head())
 
+org_inc_df = incidents_df[["incident_id","iyear", "icountry_txt", "ilatitude", "ilongitude", "attacktype_txt", 
+                          "targtype_txt", "gname", "weaptype_txt", "nkill"]]
+print(org_inc_df.head())
+print (org_inc_df.dtypes)
 #print(incidents_df)
 
 #for idx in incidents_df.index:
