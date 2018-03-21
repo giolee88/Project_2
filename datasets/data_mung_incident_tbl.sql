@@ -31,11 +31,16 @@ CREATE TABLE incidents_tbl(
     icountry_txt varchar(50), 
     ilatitude float, 
     ilongitude float, 
+    attacktype_id int, 
     attacktype_txt varchar(50), 
+    targtype_id int, 
     targtype_txt varchar(50), 
     gname varchar(100), 
+    weaptype_id int, 
     weaptype_txt varchar(100), 
     nkill int, 
+    nwound int, 
+    property int,
     PRIMARY KEY (incident_id)
 );
 
