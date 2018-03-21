@@ -31,6 +31,9 @@ incidents_df['Date'] = pd.to_datetime(incidents_df['Date'])
 # incident nkill and nwound come in as float64.  convert to int64
 incidents_df['nkill'] = incidents_df['nkill'].fillna(0).astype(int)
 incidents_df['nwound'] = incidents_df['nwound'].fillna(0).astype(int)
+incidents_df['latitude'] = incidents_df['latitude'].astype(float)
+incidents_df['longitude'] = incidents_df['longitude'].astype(float)
+incidents_df['iyear'] = incidents_df['iyear'].astype(int)
 
  # inspect the df datatypes, and convert any datatypes necessary for 
  # proper behavior
