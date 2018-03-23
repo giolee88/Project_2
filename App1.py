@@ -63,6 +63,10 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
+
+
+ 
+
 #################################################
 # Navigation Routes
 #################################################
@@ -87,50 +91,56 @@ def index():
 #################################################
 
 @app.route ("/incident_locs")
-def incident_coords(incident_locs):
+def incident_coords():
+  query_result = [ {
+    "year" : "2016",  
+    "location" : {
+      "latitude" : "37.75996673124653",
+      "longitude" : "-122.42364395748542"
+    },
+  }
+  , {
+    "year" : "2015",
+    "location" : {
+      "latitude" : "37.78398055926338",
+      "longitude" : "-122.41177829599216"
+    },
+  }
+  ]
 #  Use superheros as an example, passing in a year, and then quyering for 
 # the results related to that year.  
 # This part is not correct/complete yet.  lEave as a placeholder for now.
 
 # mock data
-query_result = 
-[ {
-  "year" : "2016"
-  "location" : {
-    "latitude" : "37.75996673124653",
-    "longitude" : "-122.42364395748542"
-  },
-}
-, {
-  "year" : "2016",
-  "location" : {
-    "latitude" : "37.78398055926338",
-    "longitude" : "-122.41177829599216"
-  },
-}
-]
 
-return jsonify(query_result)
+  return jsonify(query_result)
+
 
 
 @app.route ("/incident_facts")
-def incident_coords_facts(incident_facts):
+def incident_coords_facts():
+  query_result2 = [ {
+    "year" : "2016",
+    "location" : {
+      "latitude" : "37.742956117638094",
+      "longitude" : "-122.47783489270445"
+    },
+    "nkill" : "14",
+    }
+    ]
+  return jsonify(query_result2)
 #  Use superheros as an example, passing in a year, and then quyering for 
 # the results related to that year, including the facts
 # This part is not correct/complete yet.  lEave as a placeholder for now.
 
 # mock data
-query_result = [ {
-  "year" : "2016",
-  "location" : {
-    "latitude" : "37.742956117638094",
-    "longitude" : "-122.47783489270445"
-  },
-  "nkill" : "14",
-}
-]
-return jsonify(query_result)
 
+# @app.route("/api/v1.0/justice-league/superhero/<superhero>")
+# def justice_league_by_superhero__name(superhero):
+"""Fetch the Justice League character whose superhero matches
+       the path variable supplied by the user, or a 404 if not."""
+
+    
 
 
 if __name__ == "__main__":
