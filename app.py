@@ -96,6 +96,7 @@ def incident_coords():
     incident_details["incident_year"] = incident.iyear
     incident_details["latitude"] = incident.ilatitude
     incident_details["longitude"] = incident.ilongitude
+    
     yr_incident_list.append(incident_details)
   return jsonify(yr_incident_list)
 
