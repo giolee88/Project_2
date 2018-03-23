@@ -93,24 +93,24 @@ def incident_coords(incident_locs):
 # This part is not correct/complete yet.  lEave as a placeholder for now.
 
 # mock data
-query_result = 
-[ {
-  "year" : "2016"
-  "location" : {
-    "latitude" : "37.75996673124653",
-    "longitude" : "-122.42364395748542"
-  },
-}
-, {
-  "year" : "2016",
-  "location" : {
-    "latitude" : "37.78398055926338",
-    "longitude" : "-122.41177829599216"
-  },
-}
-]
+  query_result = 
+  [ {
+    "year" : "2016"
+    "location" : {
+      "latitude" : "37.75996673124653",
+      "longitude" : "-122.42364395748542"
+    },
+  }
+  , {
+    "year" : "2016",
+    "location" : {
+      "latitude" : "37.78398055926338",
+      "longitude" : "-122.41177829599216"
+    },
+  }
+  ]
 
-return jsonify(query_result)
+  return jsonify(query_result)
 
 
 @app.route ("/incident_facts")
@@ -120,16 +120,16 @@ def incident_coords_facts(incident_facts):
 # This part is not correct/complete yet.  lEave as a placeholder for now.
 
 # mock data
-query_result = [ {
-  "year" : "2016",
-  "location" : {
-    "latitude" : "37.742956117638094",
-    "longitude" : "-122.47783489270445"
-  },
-  "nkill" : "14",
-}
-]
-return jsonify(query_result)
+  query_result = [ {
+    "year" : "2016",
+    "location" : {
+      "latitude" : "37.742956117638094",
+      "longitude" : "-122.47783489270445"
+    },
+    "nkill" : "14",
+  }
+  ]
+  return jsonify(query_result)
 
 
 
