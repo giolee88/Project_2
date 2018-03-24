@@ -42,7 +42,7 @@
         // add tile Layer from mapbox url to map 
         L.tileLayer(mapbox).addTo(myMap);
         // geojson url add flask endpoint here*****
-        var url = "https://data.sfgov.org/resource/gxxq-x39z.json?$limit=10000"
+        var url = "http://127.0.0.1:5000/incident_locs/"
 
         d3.json(url, function (response) {
 
