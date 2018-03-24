@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		#map {
+			height: 400px;
+			width: 100%;
+		}
+	</style>
+</head>
+
+<body>
+	<h3>Terrorism Incidence Report</h3>
+
+
+
+	<div id="map"></div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script>
+    
+    var map;
+
+function initialize() {
+    // Set map pproperties
+    var mapProp = {
+        center: new google.maps.LatLng(14.596051, 120.978666), 
+        zoom: 2,
+        mapTypeId: 'terrain'
+    };
+    // render map on the div element
+    map = new google.maps.Map(document.getElementById("map"), mapProp);
+    var infowindow = new google.maps.InfoWindow(); // pop-up window instantiation
+
+      $.getJSON( "csvjson.json", function( data ) { // fetch incidence data
+        
+        $.each(data, function ( key, val) { // Loop through each element of data
+       
+          // get LatLng
+          var latLng = new google.maps.LatLng(val.latitude, val.longitude);
+
+          var marker = new google.maps.Marker({
+            position: latLng,
+            map: map,
+            // icon: icon,
+            title: val.targtype1_txt
+        });
+
+        var details = " Target Type:" + '<strong>'+val.targtype1_txt +'</strong>' + "<br/>" +
+                       "Attack Type:" + '<strong>'+val.attacktype1_txt +'</strong>'+ ".";
+        bindInfoWindow(marker, map, infowindow, details);
+})
+        });
+}
+// pop-up window message
+function bindInfoWindow(marker, map, infowindow, strDescription) {
+    google.maps.event.addListener(marker, 'click', function () {
+        infowindow.setContent(strDescription);
+        infowindow.open(map, marker);
+    });
+}
+// load google map
+google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDvIDxDYtmjXpqWJ-AX6qSwsH-hcnjAmu4&callback=initialize">
+	</script>
+
+	<!--<script src="https://maps.googleapis.com/maps/api/js"></script>-->
+</body>
+
+</html>
