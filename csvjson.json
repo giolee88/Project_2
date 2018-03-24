@@ -1,0 +1,602 @@
+[
+  {
+    "latitude": 18.456792,
+    "longitude": -69.951164,
+    "attacktype1_txt": "Assassination",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 19.432608,
+    "longitude": -99.133207,
+    "attacktype1_txt": "Hostage Taking (Kidnapping)",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 15.478598,
+    "longitude": 120.599741,
+    "attacktype1_txt": "Assassination",
+    "targtype1_txt": "Journalists & Media"
+  },
+  {
+    "latitude": 37.983773,
+    "longitude": 23.728157,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 33.580412,
+    "longitude": 130.396361,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 37.005105,
+    "longitude": -89.176269,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": -34.891151,
+    "longitude": -56.187214,
+    "attacktype1_txt": "Assassination",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 37.805065,
+    "longitude": -122.273024,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 43.076592,
+    "longitude": -89.412488,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 43.07295,
+    "longitude": -89.386694,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 43.4685,
+    "longitude": -89.744299,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 39.74001,
+    "longitude": -104.992259,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 41.89052,
+    "longitude": 12.494249,
+    "attacktype1_txt": "Hijacking",
+    "targtype1_txt": "Airports & Aircraft"
+  },
+  {
+    "latitude": 42.331685,
+    "longitude": -83.047924,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 18.399712,
+    "longitude": -66.049987,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 52.516667,
+    "longitude": 13.4,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": "",
+    "longitude": "",
+    "attacktype1_txt": "Unknown",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 40.610069,
+    "longitude": -73.947971,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 18.379998,
+    "longitude": -65.830948,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 47.60356,
+    "longitude": -122.329439,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 40.116748,
+    "longitude": -88.23927,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": -34.891151,
+    "longitude": -56.187214,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 47.610594,
+    "longitude": -122.317228,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 47.655335,
+    "longitude": -122.30352,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 40.728075,
+    "longitude": -74.077825,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Violent Political Party"
+  },
+  {
+    "latitude": 14.624422,
+    "longitude": -90.53288,
+    "attacktype1_txt": "Assassination",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 14.677301,
+    "longitude": 121.044348,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 10.502961,
+    "longitude": -66.917253,
+    "attacktype1_txt": "Hostage Taking (Kidnapping)",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 42.47031,
+    "longitude": -96.413949,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 33.60651,
+    "longitude": -88.650419,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 33.60651,
+    "longitude": -88.650419,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 40.728224,
+    "longitude": -73.794852,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 41.241996,
+    "longitude": -82.615241,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 52.516667,
+    "longitude": 13.4,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 47.60356,
+    "longitude": -122.329439,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Religious Figures/Institutions"
+  },
+  {
+    "latitude": 42.479999,
+    "longitude": -96.413046,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Unknown"
+  },
+  {
+    "latitude": 42.46634,
+    "longitude": -96.41405,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 25.720851,
+    "longitude": -80.277857,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 15.675051,
+    "longitude": 120.331618,
+    "attacktype1_txt": "Unknown",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 39.748783,
+    "longitude": -105.022136,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 45.511795,
+    "longitude": -122.675629,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 37.005105,
+    "longitude": -89.176269,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 40.844782,
+    "longitude": -73.864827,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 41.084195,
+    "longitude": -81.514059,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 39.74001,
+    "longitude": -104.992259,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Transportation"
+  },
+  {
+    "latitude": 47.608758,
+    "longitude": -122.329439,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 47.60356,
+    "longitude": -122.329439,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Religious Figures/Institutions"
+  },
+  {
+    "latitude": 18.460791,
+    "longitude": -66.264884,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 18.399712,
+    "longitude": -66.049987,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 18.441963,
+    "longitude": -66.026316,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 42.3505,
+    "longitude": -71.105399,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 42.838355,
+    "longitude": -88.743224,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 40.751212,
+    "longitude": -73.903649,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 40.678178,
+    "longitude": -73.944158,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 39.07859,
+    "longitude": -84.179414,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 48.139126,
+    "longitude": 11.580186,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Airports & Aircraft"
+  },
+  {
+    "latitude": 42.263414,
+    "longitude": -83.665281,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 37.869885,
+    "longitude": -122.270539,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 48.139126,
+    "longitude": 11.580186,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 37.869885,
+    "longitude": -122.270539,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 44.04483,
+    "longitude": -123.072606,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 37.777125,
+    "longitude": -122.419644,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 37.869885,
+    "longitude": -122.270539,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 37.869885,
+    "longitude": -122.270539,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 37.775471,
+    "longitude": -122.403717,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 37.805065,
+    "longitude": -122.273024,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Business"
+  },
+  {
+    "latitude": 39.334825,
+    "longitude": -77.431653,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 30.493919,
+    "longitude": -90.132512,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 47.655335,
+    "longitude": -122.30352,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 41.504365,
+    "longitude": -81.690459,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 38.10083,
+    "longitude": -122.254954,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 41.763325,
+    "longitude": -72.674069,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Government (General)"
+  },
+  {
+    "latitude": 40.807026,
+    "longitude": -73.960349,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 47.655335,
+    "longitude": -122.30352,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 50.111445,
+    "longitude": 8.680615,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Airports & Aircraft"
+  },
+  {
+    "latitude": 47.36865,
+    "longitude": 8.539182,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Airports & Aircraft"
+  },
+  {
+    "latitude": 40.733572,
+    "longitude": -74.002742,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Police"
+  },
+  {
+    "latitude": 40.678178,
+    "longitude": -73.944158,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 40.78306,
+    "longitude": -73.971249,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 39.74001,
+    "longitude": -104.992259,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 42.455233,
+    "longitude": -76.475847,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 43.287052,
+    "longitude": -89.724361,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 42.47031,
+    "longitude": -96.413949,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 42.47031,
+    "longitude": -96.413949,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 42.47031,
+    "longitude": -96.413949,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 42.47031,
+    "longitude": -96.413949,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Utilities"
+  },
+  {
+    "latitude": 32.222232,
+    "longitude": -110.925752,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 39.74001,
+    "longitude": -104.992259,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Private Citizens & Property"
+  },
+  {
+    "latitude": 40.101952,
+    "longitude": -88.227161,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 40.007581,
+    "longitude": -105.265942,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Educational Institution"
+  },
+  {
+    "latitude": 31.532521,
+    "longitude": 35.100248,
+    "attacktype1_txt": "Armed Assault",
+    "targtype1_txt": "Tourists"
+  },
+  {
+    "latitude": 14.596051,
+    "longitude": 120.978666,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Government (Diplomatic)"
+  },
+  {
+    "latitude": 41.89052,
+    "longitude": 12.494249,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Airports & Aircraft"
+  },
+  {
+    "latitude": 40.007581,
+    "longitude": -105.265942,
+    "attacktype1_txt": "Bombing/Explosion",
+    "targtype1_txt": "Military"
+  },
+  {
+    "latitude": 38.83345,
+    "longitude": -104.821814,
+    "attacktype1_txt": "Facility/Infrastructure Attack",
+    "targtype1_txt": "Military"
+  }
+]
