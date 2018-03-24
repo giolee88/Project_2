@@ -3,12 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Global Terrorism Heat Map</title>
+    <title>Global Terrorism Incident Explorer</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script type="text/javascript" src="static/leaflet-heat.js"></script>
 
 </head>
 
@@ -34,7 +33,7 @@
         // set mapbox variable to mapbox style url
         var mapbox = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/'
                     + '256/{z}/{x}/{y}?access_token='
-                    + 'pk.eyJ1IjoiZ2lvbGVlODgiLCJhIjoiY2plYmpvdnl5MGF3bTJ4b2Q2Z2E3aXdmdSJ9.N4Pep-QJerXNb-Fq0BLnuA'
+                    + 'pk.eyJ1IjoibWFyaW5lbGxpam9zZXBoIiwiYSI6ImNqZXZ6N3lvejBram8ydnJ5dHNndDZ6OGUifQ.TkCbx1WD-lh0UPvHMhvbvg'
         // set map properties
         var myMap = L.map('map', {
             center: [0, 0],
@@ -45,36 +44,21 @@
 
         // geojson url add flask endpoint here*****
         // var url = "http://localhost:5000/incident_locs"
-        
-        var url = "http://127.0.0.1:5000/incident_locs/2016"
+        var url = "http://localhost:5000/incident_locs/2016"
 
         // var url = "https://data.sfgov.org/resource/ gxxq-x39z.json?$limit=10000"
 
+        d3.json(url, function(response){
+          // console.log(response);
 
-        d3.json(url, function (response) {
-            // console.log(response);
-            // set heat array to empty array
-            var heatArray = [];
+          for (var i = 0; i < response.length; i++) {
+            var location = response[i].location;
 
-            // loop through responses for location
-            for (var i = 0; i < response.length; i++) {
-                var location = response[i].location;
-                // push location latitude and longitude to heat array
-                if (location) {
-                    heatArray.push([location.latitude, location.longitude])
-                }
+            if (location) {
+              L.marker([location.latitude, location.longitude]).addTo(myMap);
             }
-            // set heat layer properties 
-            var heat = L.heatLayer(heatArray, {
-                radius: 40,
-                blur: 35,
-            // add heat layer to map
-                gradient: {
-                0.0: 'green',
-                0.5: 'yellow',
-                1.0: 'red'
-            }
-            }).addTo(myMap)
+          }
+
         });
 
     </script>
