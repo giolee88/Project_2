@@ -93,10 +93,11 @@ def incident_coords():
   incident_list =  session.query(Incidents)
   for incident in incident_list:
     incident_details = {}
+    location_details = {}
+    location_details["latitude"] = incident.ilatitude
+    location_details["longitude"] = incident.ilongitude
     incident_details["incident_year"] = incident.iyear
-    incident_details["latitude"] = incident.ilatitude
-    incident_details["longitude"] = incident.ilongitude
-    
+    incident_details["location"] = location_details
     yr_incident_list.append(incident_details)
   return jsonify(yr_incident_list)
 
